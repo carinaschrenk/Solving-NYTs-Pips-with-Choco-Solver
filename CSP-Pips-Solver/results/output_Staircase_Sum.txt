@@ -1,0 +1,2500 @@
+Generate Instance 1----------------------
+Target value: 14, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 7, SquareIDs: [6, 11, 12, 13]
+Target value: 2, SquareIDs: [5, 7, 8]
+Target value: 6, SquareIDs: [14, 15]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  2   2 -10 -10 -10 -10 
+  0   0   0   0   0 -10 
+  1   0   6   4   2 -10 
+The Dominoes:
+[0 | 1]
+[0 | 0]
+[0 | 6]
+[0 | 4]
+[0 | 2]
+[1 | 2]
+[0 | 2]
+[6 | 5]
+Generate Instance 2----------------------
+Target value: 14, SquareIDs: [0, 1, 2, 4, 5]
+Target value: 15, SquareIDs: [8, 9, 10, 15]
+Target value: 6, SquareIDs: [7, 11, 12]
+Target value: 10, SquareIDs: [13, 14]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  0   2   0   6   4 -10 
+  3   1   4   6   5 -10 
+The Dominoes:
+[0 | 3]
+[2 | 1]
+[0 | 4]
+[6 | 6]
+[4 | 5]
+[3 | 6]
+[0 | 0]
+[0 | 5]
+Generate Instance 3----------------------
+Target value: 11, SquareIDs: [11, 12, 13, 14, 15]
+Target value: 8, SquareIDs: [0, 1, 2, 4]
+Target value: 12, SquareIDs: [6, 7, 8]
+Target value: 4, SquareIDs: [3, 5]
+The Board:
+  2 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  2   1 -10 -10 -10 -10 
+  2   3 -10 -10 -10 -10 
+  6   5   1   0   0 -10 
+  2   1   0   2   6 -10 
+The Dominoes:
+[6 | 5]
+[0 | 0]
+[2 | 1]
+[2 | 6]
+[1 | 0]
+[2 | 2]
+[1 | 3]
+[2 | 2]
+Generate Instance 4----------------------
+Target value: 15, SquareIDs: [5, 6, 7, 11, 12]
+Target value: 11, SquareIDs: [0, 1, 2, 3]
+Target value: 8, SquareIDs: [8, 9, 14]
+Target value: 5, SquareIDs: [10, 15]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  0   6 -10 -10 -10 -10 
+  2   0   0   2   1 -10 
+  6   1   0   6   4 -10 
+The Dominoes:
+[0 | 2]
+[6 | 0]
+[0 | 0]
+[6 | 1]
+[2 | 1]
+[6 | 4]
+[5 | 0]
+[6 | 0]
+Generate Instance 5----------------------
+Target value: 15, SquareIDs: [8, 9, 10, 14, 15]
+Target value: 15, SquareIDs: [3, 4, 5, 7]
+Target value: 4, SquareIDs: [0, 1, 2]
+Target value: 7, SquareIDs: [6, 11]
+The Board:
+  2 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  1   5 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  5   6   3   0   2 -10 
+  2   0   0   4   6 -10 
+The Dominoes:
+[5 | 2]
+[6 | 3]
+[0 | 0]
+[0 | 4]
+[2 | 6]
+[1 | 1]
+[5 | 3]
+[2 | 1]
+Generate Instance 6----------------------
+Target value: 10, SquareIDs: [2, 3, 5, 6, 7]
+Target value: 21, SquareIDs: [8, 12, 13, 14]
+Target value: 14, SquareIDs: [9, 10, 15]
+Target value: 4, SquareIDs: [0, 1]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  2   3 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  2   1   5   6   3 -10 
+  0   4   6   6   5 -10 
+The Dominoes:
+[0 | 2]
+[2 | 1]
+[5 | 6]
+[0 | 4]
+[6 | 6]
+[3 | 5]
+[2 | 3]
+[1 | 3]
+Generate Instance 7----------------------
+Target value: 20, SquareIDs: [1, 2, 4, 5, 6]
+Target value: 4, SquareIDs: [7, 8, 13, 14]
+Target value: 11, SquareIDs: [9, 10, 15]
+Target value: 4, SquareIDs: [11, 12]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  6   4 -10 -10 -10 -10 
+  6   0   2   1   5 -10 
+  3   1   0   2   5 -10 
+The Dominoes:
+[6 | 3]
+[0 | 1]
+[2 | 0]
+[1 | 2]
+[5 | 5]
+[4 | 0]
+[6 | 4]
+[0 | 0]
+Generate Instance 8----------------------
+Target value: 19, SquareIDs: [8, 9, 10, 13, 15]
+Target value: 16, SquareIDs: [4, 6, 11, 12]
+Target value: 7, SquareIDs: [0, 1, 2]
+Target value: 8, SquareIDs: [5, 7]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  5   6   6   0   5 -10 
+  5   6   4   0   4 -10 
+The Dominoes:
+[5 | 6]
+[0 | 5]
+[5 | 6]
+[0 | 4]
+[6 | 4]
+[1 | 0]
+[0 | 2]
+[3 | 3]
+Generate Instance 9----------------------
+Target value: 16, SquareIDs: [5, 7, 11, 12, 13]
+Target value: 10, SquareIDs: [0, 1, 2, 3]
+Target value: 5, SquareIDs: [8, 9, 14]
+Target value: 7, SquareIDs: [10, 15]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  3   1 -10 -10 -10 -10 
+  0   3 -10 -10 -10 -10 
+  0   1   3   2   2 -10 
+  5   2   5   0   5 -10 
+The Dominoes:
+[0 | 5]
+[1 | 2]
+[3 | 5]
+[2 | 2]
+[0 | 5]
+[3 | 1]
+[0 | 3]
+[1 | 5]
+Generate Instance 10----------------------
+Target value: 21, SquareIDs: [6, 7, 8, 9, 13]
+Target value: 8, SquareIDs: [2, 3, 4, 5]
+Target value: 14, SquareIDs: [10, 14, 15]
+Target value: 8, SquareIDs: [0, 1]
+The Board:
+  4 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  5   1 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  6   0   6   4   5 -10 
+  0   0   5   4   5 -10 
+The Dominoes:
+[0 | 6]
+[2 | 0]
+[6 | 4]
+[0 | 0]
+[5 | 4]
+[5 | 5]
+[5 | 1]
+[4 | 4]
+Generate Instance 11----------------------
+Target value: 14, SquareIDs: [2, 4, 6, 11, 12]
+Target value: 14, SquareIDs: [3, 5, 7, 8]
+Target value: 11, SquareIDs: [13, 14, 15]
+Target value: 8, SquareIDs: [9, 10]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  2   5 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  5   6   3   4   4 -10 
+  0   2   6   1   4 -10 
+The Dominoes:
+[5 | 6]
+[3 | 4]
+[0 | 2]
+[6 | 1]
+[4 | 4]
+[2 | 5]
+[5 | 0]
+[0 | 0]
+Generate Instance 12----------------------
+Target value: 12, SquareIDs: [3, 4, 5, 6, 11]
+Target value: 7, SquareIDs: [7, 8, 13, 14]
+Target value: 6, SquareIDs: [9, 10, 15]
+Target value: 2, SquareIDs: [1, 2]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  2   1   1   1   0 -10 
+  3   0   2   3   5 -10 
+The Dominoes:
+[2 | 1]
+[1 | 1]
+[3 | 0]
+[2 | 3]
+[0 | 5]
+[1 | 3]
+[1 | 3]
+[0 | 1]
+Generate Instance 13----------------------
+Target value: 14, SquareIDs: [1, 2, 3, 4, 5]
+Target value: 6, SquareIDs: [8, 9, 14, 15]
+Target value: 9, SquareIDs: [11, 12, 13]
+Target value: 10, SquareIDs: [6, 7]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  5   4 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  6   4   1   1   0 -10 
+  0   3   6   0   4 -10 
+The Dominoes:
+[6 | 0]
+[4 | 3]
+[1 | 6]
+[1 | 0]
+[0 | 4]
+[5 | 4]
+[5 | 0]
+[0 | 0]
+Generate Instance 14----------------------
+Target value: 17, SquareIDs: [0, 1, 2, 4, 6]
+Target value: 1, SquareIDs: [9, 13, 14, 15]
+Target value: 8, SquareIDs: [3, 5, 7]
+Target value: 4, SquareIDs: [11, 12]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  3   3 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  4   5   0   1   0 -10 
+  4   0   0   0   0 -10 
+The Dominoes:
+[4 | 5]
+[1 | 0]
+[4 | 0]
+[0 | 0]
+[0 | 0]
+[3 | 1]
+[3 | 0]
+[5 | 4]
+Generate Instance 15----------------------
+Target value: 9, SquareIDs: [5, 7, 11, 12, 13]
+Target value: 17, SquareIDs: [9, 10, 14, 15]
+Target value: 8, SquareIDs: [1, 2, 3]
+Target value: 8, SquareIDs: [4, 6]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  3   1 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  2   4   0   6   5 -10 
+  2   0   3   1   5 -10 
+The Dominoes:
+[2 | 2]
+[4 | 0]
+[0 | 3]
+[6 | 1]
+[5 | 5]
+[3 | 6]
+[1 | 0]
+[0 | 4]
+Generate Instance 16----------------------
+Target value: 10, SquareIDs: [8, 9, 10, 14, 15]
+Target value: 15, SquareIDs: [0, 1, 2, 4]
+Target value: 6, SquareIDs: [3, 5, 7]
+Target value: 6, SquareIDs: [12, 13]
+The Board:
+  4 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  2   5 -10 -10 -10 -10 
+  0   1   3   0   0 -10 
+  0   4   2   4   3 -10 
+The Dominoes:
+[0 | 1]
+[3 | 0]
+[0 | 4]
+[2 | 4]
+[0 | 3]
+[3 | 0]
+[2 | 5]
+[4 | 6]
+Generate Instance 17----------------------
+Target value: 19, SquareIDs: [2, 4, 6, 7, 8]
+Target value: 7, SquareIDs: [11, 12, 13, 14]
+Target value: 10, SquareIDs: [9, 10, 15]
+Target value: 7, SquareIDs: [3, 5]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  6   4 -10 -10 -10 -10 
+  4   4   4   2   3 -10 
+  0   1   3   3   5 -10 
+The Dominoes:
+[4 | 0]
+[4 | 1]
+[4 | 2]
+[3 | 3]
+[3 | 5]
+[1 | 3]
+[6 | 4]
+[0 | 0]
+Generate Instance 18----------------------
+Target value: 13, SquareIDs: [10, 12, 13, 14, 15]
+Target value: 14, SquareIDs: [0, 1, 2, 4]
+Target value: 13, SquareIDs: [5, 6, 7]
+Target value: 5, SquareIDs: [8, 9]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  5   6 -10 -10 -10 -10 
+  1   6   5   0   6 -10 
+  0   1   3   1   2 -10 
+The Dominoes:
+[1 | 6]
+[0 | 6]
+[0 | 1]
+[1 | 2]
+[5 | 3]
+[3 | 5]
+[0 | 6]
+[1 | 5]
+Generate Instance 19----------------------
+Target value: 26, SquareIDs: [3, 4, 5, 6, 7]
+Target value: 15, SquareIDs: [10, 13, 14, 15]
+Target value: 16, SquareIDs: [0, 1, 2]
+Target value: 3, SquareIDs: [11, 12]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  6   5 -10 -10 -10 -10 
+  6   5 -10 -10 -10 -10 
+  5   5   0   0   6 -10 
+  3   0   4   4   1 -10 
+The Dominoes:
+[6 | 5]
+[5 | 5]
+[0 | 4]
+[3 | 0]
+[0 | 4]
+[6 | 1]
+[6 | 5]
+[6 | 4]
+Generate Instance 20----------------------
+Target value: 14, SquareIDs: [0, 1, 2, 4, 5]
+Target value: 16, SquareIDs: [9, 10, 13, 14]
+Target value: 3, SquareIDs: [6, 11, 12]
+Target value: 2, SquareIDs: [7, 8]
+The Board:
+  2 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  0   0   2   5   3 -10 
+  1   2   4   4   0 -10 
+The Dominoes:
+[0 | 1]
+[0 | 2]
+[2 | 4]
+[5 | 3]
+[4 | 0]
+[5 | 6]
+[0 | 0]
+[2 | 1]
+Generate Instance 21----------------------
+Target value: 12, SquareIDs: [2, 3, 4, 5, 6]
+Target value: 7, SquareIDs: [7, 8, 12, 13]
+Target value: 10, SquareIDs: [9, 14, 15]
+Target value: 6, SquareIDs: [0, 1]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  3   2 -10 -10 -10 -10 
+  1   1 -10 -10 -10 -10 
+  5   3   1   3   0 -10 
+  0   0   3   5   2 -10 
+The Dominoes:
+[1 | 5]
+[1 | 3]
+[1 | 3]
+[0 | 0]
+[3 | 5]
+[0 | 2]
+[3 | 2]
+[0 | 6]
+Generate Instance 22----------------------
+Target value: 13, SquareIDs: [8, 9, 12, 13, 14]
+Target value: 12, SquareIDs: [3, 4, 5, 7]
+Target value: 16, SquareIDs: [0, 1, 2]
+Target value: 12, SquareIDs: [6, 11]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  6   1 -10 -10 -10 -10 
+  6   5   6   0   0 -10 
+  6   2   3   2   0 -10 
+The Dominoes:
+[5 | 6]
+[0 | 0]
+[2 | 3]
+[2 | 0]
+[6 | 6]
+[6 | 0]
+[6 | 1]
+[6 | 4]
+Generate Instance 23----------------------
+Target value: 9, SquareIDs: [4, 5, 6, 7, 8]
+Target value: 15, SquareIDs: [9, 10, 14, 15]
+Target value: 8, SquareIDs: [0, 1, 2]
+Target value: 6, SquareIDs: [11, 12]
+The Board:
+  4 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  1   1   3   6   2 -10 
+  3   3   0   6   1 -10 
+The Dominoes:
+[1 | 3]
+[1 | 3]
+[3 | 6]
+[0 | 6]
+[2 | 1]
+[2 | 0]
+[0 | 4]
+[4 | 2]
+Generate Instance 24----------------------
+Target value: 19, SquareIDs: [8, 9, 13, 14, 15]
+Target value: 6, SquareIDs: [4, 6, 7, 12]
+Target value: 7, SquareIDs: [0, 1, 2]
+Target value: 3, SquareIDs: [3, 5]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  3   3 -10 -10 -10 -10 
+  0   1   3   6   0 -10 
+  0   2   6   3   1 -10 
+The Dominoes:
+[0 | 1]
+[3 | 6]
+[0 | 2]
+[6 | 3]
+[0 | 1]
+[3 | 3]
+[0 | 3]
+[3 | 1]
+Generate Instance 25----------------------
+Target value: 13, SquareIDs: [4, 5, 6, 11, 12]
+Target value: 12, SquareIDs: [0, 1, 2, 3]
+Target value: 9, SquareIDs: [8, 9, 10]
+Target value: 8, SquareIDs: [14, 15]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  4   0   2   1   6 -10 
+  1   2   0   6   2 -10 
+The Dominoes:
+[4 | 1]
+[0 | 2]
+[2 | 0]
+[1 | 6]
+[6 | 2]
+[3 | 0]
+[6 | 0]
+[5 | 4]
+Generate Instance 26----------------------
+Target value: 13, SquareIDs: [0, 1, 2, 3, 5]
+Target value: 18, SquareIDs: [7, 11, 12, 13]
+Target value: 9, SquareIDs: [10, 14, 15]
+Target value: 7, SquareIDs: [4, 6]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  4   2 -10 -10 -10 -10 
+  3   5 -10 -10 -10 -10 
+  4   6   0   0   0 -10 
+  6   4   2   4   5 -10 
+The Dominoes:
+[4 | 6]
+[6 | 4]
+[0 | 2]
+[0 | 0]
+[4 | 5]
+[4 | 3]
+[2 | 5]
+[1 | 1]
+Generate Instance 27----------------------
+Target value: 19, SquareIDs: [1, 2, 3, 5, 7]
+Target value: 19, SquareIDs: [8, 9, 10, 15]
+Target value: 8, SquareIDs: [4, 6, 11]
+Target value: 3, SquareIDs: [12, 13]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  4   1 -10 -10 -10 -10 
+  0   5 -10 -10 -10 -10 
+  2   4   5   5   5 -10 
+  6   1   2   0   4 -10 
+The Dominoes:
+[4 | 5]
+[5 | 5]
+[1 | 2]
+[0 | 4]
+[2 | 6]
+[4 | 1]
+[0 | 5]
+[0 | 5]
+Generate Instance 28----------------------
+Target value: 5, SquareIDs: [8, 9, 10, 14, 15]
+Target value: 9, SquareIDs: [5, 7, 11, 12]
+Target value: 9, SquareIDs: [2, 3, 4]
+Target value: 11, SquareIDs: [0, 1]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  1   4 -10 -10 -10 -10 
+  4   2 -10 -10 -10 -10 
+  0   0   2   0   1 -10 
+  3   4   0   2   0 -10 
+The Dominoes:
+[4 | 0]
+[2 | 0]
+[2 | 0]
+[3 | 4]
+[0 | 2]
+[1 | 0]
+[1 | 4]
+[5 | 6]
+Generate Instance 29----------------------
+Target value: 19, SquareIDs: [5, 6, 7, 8, 11]
+Target value: 9, SquareIDs: [0, 1, 2, 3]
+Target value: 6, SquareIDs: [9, 10, 15]
+Target value: 10, SquareIDs: [12, 13]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  5   5   4   1   4 -10 
+  1   5   5   0   1 -10 
+The Dominoes:
+[5 | 1]
+[5 | 5]
+[4 | 5]
+[1 | 4]
+[0 | 1]
+[4 | 0]
+[0 | 4]
+[5 | 0]
+Generate Instance 30----------------------
+Target value: 15, SquareIDs: [11, 12, 13, 14, 15]
+Target value: 15, SquareIDs: [7, 8, 9, 10]
+Target value: 7, SquareIDs: [3, 4, 5]
+Target value: 6, SquareIDs: [0, 1]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  0   5 -10 -10 -10 -10 
+  0   4   3   3   5 -10 
+  4   3   6   1   1 -10 
+The Dominoes:
+[4 | 3]
+[3 | 5]
+[3 | 6]
+[1 | 1]
+[0 | 4]
+[0 | 2]
+[0 | 5]
+[6 | 0]
+Generate Instance 31----------------------
+Target value: 25, SquareIDs: [2, 4, 5, 7, 8]
+Target value: 19, SquareIDs: [9, 10, 13, 14]
+Target value: 2, SquareIDs: [6, 11, 12]
+Target value: 8, SquareIDs: [0, 1]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  6   6 -10 -10 -10 -10 
+  1   5   3   5   6 -10 
+  0   1   4   4   0 -10 
+The Dominoes:
+[6 | 1]
+[6 | 5]
+[3 | 4]
+[0 | 1]
+[5 | 6]
+[4 | 0]
+[5 | 0]
+[3 | 5]
+Generate Instance 32----------------------
+Target value: 19, SquareIDs: [8, 9, 10, 14, 15]
+Target value: 11, SquareIDs: [0, 1, 2, 3]
+Target value: 12, SquareIDs: [7, 12, 13]
+Target value: 10, SquareIDs: [6, 11]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  5   4 -10 -10 -10 -10 
+  0   0 -10 -10 -10 -10 
+  6   4   6   3   4 -10 
+  4   6   2   6   0 -10 
+The Dominoes:
+[6 | 4]
+[4 | 6]
+[6 | 2]
+[3 | 4]
+[6 | 0]
+[5 | 4]
+[0 | 0]
+[0 | 2]
+Generate Instance 33----------------------
+Target value: 13, SquareIDs: [3, 5, 7, 8, 13]
+Target value: 16, SquareIDs: [4, 6, 11, 12]
+Target value: 7, SquareIDs: [0, 1, 2]
+Target value: 8, SquareIDs: [9, 14]
+The Board:
+  2 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  4   1 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  4   5   5   4   0 -10 
+  4   6   2   4   0 -10 
+The Dominoes:
+[4 | 4]
+[5 | 6]
+[5 | 2]
+[4 | 4]
+[0 | 0]
+[4 | 2]
+[1 | 0]
+[2 | 1]
+Generate Instance 34----------------------
+Target value: 15, SquareIDs: [4, 5, 6, 11, 12]
+Target value: 8, SquareIDs: [7, 8, 9, 14]
+Target value: 5, SquareIDs: [1, 2, 3]
+Target value: 3, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  0   1 -10 -10 -10 -10 
+  2   2 -10 -10 -10 -10 
+  3   0   4   3   3 -10 
+  3   5   0   1   0 -10 
+The Dominoes:
+[3 | 0]
+[3 | 5]
+[4 | 0]
+[3 | 1]
+[3 | 0]
+[0 | 2]
+[1 | 2]
+[0 | 4]
+Generate Instance 35----------------------
+Target value: 17, SquareIDs: [5, 7, 11, 12, 13]
+Target value: 19, SquareIDs: [8, 9, 14, 15]
+Target value: 11, SquareIDs: [0, 1, 2]
+Target value: 0, SquareIDs: [4, 6]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  0   0   2   6   0 -10 
+  5   4   4   6   5 -10 
+The Dominoes:
+[0 | 0]
+[6 | 0]
+[5 | 4]
+[6 | 5]
+[2 | 4]
+[2 | 0]
+[0 | 4]
+[5 | 4]
+Generate Instance 36----------------------
+Target value: 18, SquareIDs: [2, 4, 5, 7, 8]
+Target value: 8, SquareIDs: [9, 10, 14, 15]
+Target value: 9, SquareIDs: [6, 11, 12]
+Target value: 7, SquareIDs: [0, 1]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  1   4 -10 -10 -10 -10 
+  2   5   4   1   1 -10 
+  3   4   0   2   4 -10 
+The Dominoes:
+[2 | 3]
+[5 | 4]
+[4 | 0]
+[1 | 2]
+[1 | 4]
+[4 | 0]
+[1 | 4]
+[1 | 6]
+Generate Instance 37----------------------
+Target value: 7, SquareIDs: [4, 5, 6, 7, 8]
+Target value: 15, SquareIDs: [9, 10, 14, 15]
+Target value: 6, SquareIDs: [11, 12, 13]
+Target value: 4, SquareIDs: [2, 3]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  0   1 -10 -10 -10 -10 
+  0   0   6   1   6 -10 
+  1   1   4   2   6 -10 
+The Dominoes:
+[0 | 1]
+[0 | 6]
+[1 | 4]
+[1 | 2]
+[6 | 6]
+[0 | 4]
+[0 | 1]
+[0 | 0]
+Generate Instance 38----------------------
+Target value: 13, SquareIDs: [6, 7, 11, 12, 13]
+Target value: 9, SquareIDs: [0, 1, 2, 3]
+Target value: 6, SquareIDs: [8, 9, 14]
+Target value: 7, SquareIDs: [10, 15]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  2   2 -10 -10 -10 -10 
+  0   0 -10 -10 -10 -10 
+  1   3   3   3   5 -10 
+  3   4   2   0   2 -10 
+The Dominoes:
+[1 | 3]
+[3 | 4]
+[3 | 2]
+[3 | 0]
+[5 | 2]
+[2 | 0]
+[2 | 0]
+[5 | 0]
+Generate Instance 39----------------------
+Target value: 18, SquareIDs: [9, 10, 13, 14, 15]
+Target value: 9, SquareIDs: [0, 1, 2, 3]
+Target value: 12, SquareIDs: [7, 11, 12]
+Target value: 11, SquareIDs: [4, 6]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  2   2 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  6   6   0   4   3 -10 
+  2   4   4   5   2 -10 
+The Dominoes:
+[6 | 0]
+[4 | 3]
+[4 | 4]
+[5 | 2]
+[6 | 2]
+[2 | 5]
+[2 | 0]
+[1 | 4]
+Generate Instance 40----------------------
+Target value: 15, SquareIDs: [6, 7, 8, 9, 13]
+Target value: 12, SquareIDs: [2, 3, 4, 5]
+Target value: 10, SquareIDs: [10, 14, 15]
+Target value: 3, SquareIDs: [0, 1]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  4   1 -10 -10 -10 -10 
+  5   2 -10 -10 -10 -10 
+  4   5   0   4   1 -10 
+  0   0   2   5   4 -10 
+The Dominoes:
+[4 | 0]
+[5 | 0]
+[0 | 2]
+[4 | 5]
+[1 | 4]
+[4 | 5]
+[1 | 2]
+[0 | 3]
+Generate Instance 41----------------------
+Target value: 11, SquareIDs: [3, 4, 5, 6, 7]
+Target value: 10, SquareIDs: [11, 12, 13, 14]
+Target value: 9, SquareIDs: [0, 1, 2]
+Target value: 5, SquareIDs: [8, 9]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  5   5 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  1   3   3   2   0 -10 
+  2   5   3   0   0 -10 
+The Dominoes:
+[3 | 3]
+[2 | 0]
+[5 | 3]
+[0 | 0]
+[1 | 2]
+[5 | 5]
+[2 | 0]
+[3 | 1]
+Generate Instance 42----------------------
+Target value: 15, SquareIDs: [4, 6, 7, 8, 9]
+Target value: 14, SquareIDs: [10, 13, 14, 15]
+Target value: 12, SquareIDs: [0, 1, 2]
+Target value: 10, SquareIDs: [3, 5]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  2   4 -10 -10 -10 -10 
+  0   6 -10 -10 -10 -10 
+  2   5   6   2   6 -10 
+  0   0   6   2   0 -10 
+The Dominoes:
+[0 | 2]
+[6 | 5]
+[6 | 6]
+[0 | 0]
+[2 | 2]
+[6 | 0]
+[2 | 4]
+[5 | 5]
+Generate Instance 43----------------------
+Target value: 17, SquareIDs: [4, 6, 7, 11, 12]
+Target value: 15, SquareIDs: [9, 13, 14, 15]
+Target value: 12, SquareIDs: [0, 1, 2]
+Target value: 10, SquareIDs: [3, 5]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  1   4 -10 -10 -10 -10 
+  3   6 -10 -10 -10 -10 
+  1   3   0   3   0 -10 
+  5   5   5   3   4 -10 
+The Dominoes:
+[1 | 5]
+[3 | 5]
+[0 | 5]
+[3 | 3]
+[0 | 4]
+[1 | 4]
+[3 | 6]
+[6 | 5]
+Generate Instance 44----------------------
+Target value: 9, SquareIDs: [1, 2, 3, 4, 6]
+Target value: 13, SquareIDs: [5, 7, 12, 13]
+Target value: 11, SquareIDs: [8, 9, 10]
+Target value: 7, SquareIDs: [14, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  1   5 -10 -10 -10 -10 
+  0   5 -10 -10 -10 -10 
+  3   1   5   4   2 -10 
+  0   6   1   2   5 -10 
+The Dominoes:
+[3 | 0]
+[1 | 6]
+[5 | 1]
+[4 | 2]
+[2 | 5]
+[1 | 0]
+[5 | 5]
+[0 | 0]
+Generate Instance 45----------------------
+Target value: 15, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 12, SquareIDs: [10, 13, 14, 15]
+Target value: 16, SquareIDs: [6, 7, 12]
+Target value: 2, SquareIDs: [8, 9]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  2   1 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  6   5   0   2   5 -10 
+  0   5   0   3   4 -10 
+The Dominoes:
+[5 | 0]
+[2 | 5]
+[5 | 0]
+[3 | 4]
+[6 | 0]
+[2 | 1]
+[6 | 0]
+[3 | 3]
+Generate Instance 46----------------------
+Target value: 13, SquareIDs: [5, 7, 8, 9, 12]
+Target value: 12, SquareIDs: [2, 4, 6, 11]
+Target value: 7, SquareIDs: [13, 14, 15]
+Target value: 9, SquareIDs: [0, 1]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  0   1 -10 -10 -10 -10 
+  3   2   2   5   0 -10 
+  4   3   2   0   5 -10 
+The Dominoes:
+[3 | 4]
+[2 | 2]
+[3 | 2]
+[5 | 0]
+[0 | 5]
+[5 | 0]
+[0 | 1]
+[5 | 4]
+Generate Instance 47----------------------
+Target value: 12, SquareIDs: [8, 9, 10, 13, 15]
+Target value: 9, SquareIDs: [2, 4, 5, 7]
+Target value: 10, SquareIDs: [6, 11, 12]
+Target value: 3, SquareIDs: [0, 1]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  0   4   1   3   3 -10 
+  4   6   1   0   4 -10 
+The Dominoes:
+[0 | 4]
+[4 | 6]
+[1 | 1]
+[3 | 0]
+[3 | 4]
+[3 | 0]
+[0 | 2]
+[1 | 2]
+Generate Instance 48----------------------
+Target value: 17, SquareIDs: [9, 10, 13, 14, 15]
+Target value: 13, SquareIDs: [6, 7, 8, 11]
+Target value: 15, SquareIDs: [1, 2, 3]
+Target value: 10, SquareIDs: [4, 5]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  4   5 -10 -10 -10 -10 
+  5   5 -10 -10 -10 -10 
+  6   0   5   6   2 -10 
+  2   0   3   5   1 -10 
+The Dominoes:
+[6 | 2]
+[0 | 0]
+[5 | 3]
+[6 | 2]
+[5 | 1]
+[4 | 5]
+[5 | 5]
+[0 | 6]
+Generate Instance 49----------------------
+Target value: 17, SquareIDs: [0, 1, 2, 3, 5]
+Target value: 11, SquareIDs: [9, 10, 14, 15]
+Target value: 5, SquareIDs: [11, 12, 13]
+Target value: 7, SquareIDs: [4, 6]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  0   5 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  6   0   0   2   2 -10 
+  0   0   5   4   3 -10 
+The Dominoes:
+[6 | 0]
+[0 | 0]
+[0 | 5]
+[2 | 4]
+[2 | 3]
+[0 | 5]
+[1 | 3]
+[3 | 6]
+Generate Instance 50----------------------
+Target value: 14, SquareIDs: [0, 1, 2, 4, 6]
+Target value: 10, SquareIDs: [3, 5, 7, 8]
+Target value: 6, SquareIDs: [10, 14, 15]
+Target value: 5, SquareIDs: [11, 12]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  2   1 -10 -10 -10 -10 
+  5   5 -10 -10 -10 -10 
+  0   3   1   0   1 -10 
+  2   3   0   3   2 -10 
+The Dominoes:
+[0 | 2]
+[3 | 3]
+[1 | 0]
+[0 | 3]
+[1 | 2]
+[2 | 1]
+[5 | 5]
+[5 | 2]
+Generate Instance 51----------------------
+Target value: 11, SquareIDs: [5, 7, 11, 12, 13]
+Target value: 13, SquareIDs: [2, 3, 4, 6]
+Target value: 4, SquareIDs: [8, 9, 10]
+Target value: 1, SquareIDs: [14, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  2   6 -10 -10 -10 -10 
+  3   3 -10 -10 -10 -10 
+  2   0   1   0   3 -10 
+  2   2   4   1   0 -10 
+The Dominoes:
+[2 | 0]
+[2 | 2]
+[1 | 4]
+[0 | 1]
+[3 | 0]
+[2 | 6]
+[3 | 3]
+[0 | 0]
+Generate Instance 52----------------------
+Target value: 9, SquareIDs: [3, 4, 5, 6, 11]
+Target value: 13, SquareIDs: [8, 12, 13, 14]
+Target value: 10, SquareIDs: [9, 10, 15]
+Target value: 10, SquareIDs: [1, 2]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  3   1 -10 -10 -10 -10 
+  0   0   4   6   0 -10 
+  5   4   1   4   4 -10 
+The Dominoes:
+[0 | 0]
+[6 | 0]
+[5 | 4]
+[4 | 4]
+[4 | 1]
+[6 | 3]
+[0 | 1]
+[0 | 4]
+Generate Instance 53----------------------
+Target value: 13, SquareIDs: [2, 4, 5, 6, 7]
+Target value: 15, SquareIDs: [8, 9, 10, 14]
+Target value: 15, SquareIDs: [11, 12, 13]
+Target value: 5, SquareIDs: [0, 1]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  3   0 -10 -10 -10 -10 
+  4   3 -10 -10 -10 -10 
+  1   2   3   5   5 -10 
+  6   6   3   2   0 -10 
+The Dominoes:
+[1 | 6]
+[2 | 3]
+[6 | 3]
+[5 | 2]
+[5 | 0]
+[3 | 0]
+[4 | 3]
+[5 | 0]
+Generate Instance 54----------------------
+Target value: 8, SquareIDs: [9, 10, 13, 14, 15]
+Target value: 7, SquareIDs: [4, 6, 7, 8]
+Target value: 6, SquareIDs: [2, 3, 5]
+Target value: 8, SquareIDs: [0, 1]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  1   1 -10 -10 -10 -10 
+  2   4 -10 -10 -10 -10 
+  1   2   2   3   1 -10 
+  0   0   3   0   1 -10 
+The Dominoes:
+[2 | 2]
+[3 | 1]
+[0 | 3]
+[0 | 1]
+[1 | 0]
+[1 | 1]
+[2 | 4]
+[3 | 5]
+Generate Instance 55----------------------
+Target value: 15, SquareIDs: [0, 1, 2, 4, 5]
+Target value: 8, SquareIDs: [7, 11, 12, 13]
+Target value: 7, SquareIDs: [8, 9, 14]
+Target value: 4, SquareIDs: [10, 15]
+The Board:
+  4 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  2   3 -10 -10 -10 -10 
+  0   5   1   2   0 -10 
+  1   1   1   4   4 -10 
+The Dominoes:
+[0 | 5]
+[1 | 1]
+[1 | 1]
+[2 | 4]
+[0 | 4]
+[1 | 0]
+[2 | 3]
+[4 | 5]
+Generate Instance 56----------------------
+Target value: 12, SquareIDs: [1, 2, 3, 4, 5]
+Target value: 18, SquareIDs: [8, 12, 13, 14]
+Target value: 1, SquareIDs: [9, 10, 15]
+Target value: 5, SquareIDs: [6, 11]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  0   6 -10 -10 -10 -10 
+  1   4 -10 -10 -10 -10 
+  2   0   3   1   0 -10 
+  3   6   6   3   0 -10 
+The Dominoes:
+[2 | 0]
+[3 | 1]
+[3 | 6]
+[6 | 3]
+[0 | 0]
+[0 | 6]
+[1 | 4]
+[0 | 1]
+Generate Instance 57----------------------
+Target value: 9, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 6, SquareIDs: [10, 13, 14, 15]
+Target value: 14, SquareIDs: [6, 7, 11]
+Target value: 7, SquareIDs: [8, 9]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  4   4   5   2   0 -10 
+  6   0   2   4   0 -10 
+The Dominoes:
+[4 | 4]
+[6 | 0]
+[5 | 2]
+[2 | 4]
+[0 | 0]
+[1 | 0]
+[4 | 0]
+[0 | 4]
+Generate Instance 58----------------------
+Target value: 15, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 11, SquareIDs: [6, 7, 8, 11]
+Target value: 9, SquareIDs: [10, 14, 15]
+Target value: 8, SquareIDs: [12, 13]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  2   1 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  5   0   1   0   0 -10 
+  5   2   6   4   5 -10 
+The Dominoes:
+[5 | 0]
+[0 | 0]
+[5 | 2]
+[4 | 5]
+[1 | 6]
+[2 | 1]
+[5 | 0]
+[1 | 6]
+Generate Instance 59----------------------
+Target value: 18, SquareIDs: [1, 2, 3, 4, 5]
+Target value: 12, SquareIDs: [6, 7, 12, 13]
+Target value: 4, SquareIDs: [8, 9, 14]
+Target value: 10, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  1   5 -10 -10 -10 -10 
+  6   2 -10 -10 -10 -10 
+  4   4   0   0   5 -10 
+  0   1   3   4   5 -10 
+The Dominoes:
+[4 | 0]
+[0 | 5]
+[1 | 3]
+[4 | 5]
+[4 | 0]
+[1 | 6]
+[5 | 2]
+[0 | 4]
+Generate Instance 60----------------------
+Target value: 11, SquareIDs: [2, 3, 4, 5, 6]
+Target value: 14, SquareIDs: [8, 9, 10, 15]
+Target value: 10, SquareIDs: [7, 11, 12]
+Target value: 8, SquareIDs: [0, 1]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  0   6 -10 -10 -10 -10 
+  3   2 -10 -10 -10 -10 
+  0   5   5   5   1 -10 
+  5   0   0   0   3 -10 
+The Dominoes:
+[3 | 0]
+[2 | 5]
+[5 | 0]
+[5 | 0]
+[5 | 1]
+[0 | 3]
+[0 | 6]
+[3 | 5]
+Generate Instance 61----------------------
+Target value: 11, SquareIDs: [1, 2, 3, 4, 5]
+Target value: 11, SquareIDs: [6, 7, 12, 13]
+Target value: 8, SquareIDs: [8, 9, 10]
+Target value: 6, SquareIDs: [14, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   3 -10 -10 -10 -10 
+  5   3 -10 -10 -10 -10 
+  0   4   5   0   3 -10 
+  0   3   4   1   5 -10 
+The Dominoes:
+[5 | 0]
+[3 | 4]
+[5 | 4]
+[0 | 3]
+[0 | 3]
+[1 | 5]
+[0 | 3]
+[0 | 0]
+Generate Instance 62----------------------
+Target value: 15, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 16, SquareIDs: [6, 7, 11, 12]
+Target value: 7, SquareIDs: [8, 9, 10]
+Target value: 3, SquareIDs: [14, 15]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  5   3 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  5   1   0   6   1 -10 
+  6   4   0   2   1 -10 
+The Dominoes:
+[5 | 6]
+[1 | 0]
+[4 | 0]
+[6 | 2]
+[1 | 1]
+[5 | 4]
+[3 | 0]
+[1 | 2]
+Generate Instance 63----------------------
+Target value: 24, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 12, SquareIDs: [10, 13, 14, 15]
+Target value: 11, SquareIDs: [6, 11, 12]
+Target value: 6, SquareIDs: [8, 9]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  3   4 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  1   0   5   1   0 -10 
+  4   6   4   5   3 -10 
+The Dominoes:
+[1 | 0]
+[1 | 0]
+[4 | 6]
+[5 | 3]
+[5 | 4]
+[3 | 4]
+[6 | 0]
+[5 | 6]
+Generate Instance 64----------------------
+Target value: 10, SquareIDs: [2, 4, 6, 11, 12]
+Target value: 12, SquareIDs: [8, 9, 13, 14]
+Target value: 4, SquareIDs: [3, 5, 7]
+Target value: 6, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   1 -10 -10 -10 -10 
+  1   1 -10 -10 -10 -10 
+  4   2   5   0   3 -10 
+  2   3   2   5   3 -10 
+The Dominoes:
+[4 | 2]
+[2 | 3]
+[5 | 0]
+[2 | 5]
+[3 | 3]
+[0 | 1]
+[1 | 1]
+[0 | 0]
+Generate Instance 65----------------------
+Target value: 16, SquareIDs: [2, 3, 4, 6, 11]
+Target value: 13, SquareIDs: [8, 9, 10, 15]
+Target value: 9, SquareIDs: [12, 13, 14]
+Target value: 7, SquareIDs: [5, 7]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  5   1 -10 -10 -10 -10 
+  3   6   6   1   0 -10 
+  4   3   4   2   6 -10 
+The Dominoes:
+[3 | 4]
+[6 | 3]
+[6 | 4]
+[1 | 0]
+[2 | 6]
+[0 | 4]
+[5 | 1]
+[0 | 0]
+Generate Instance 66----------------------
+Target value: 10, SquareIDs: [0, 1, 2, 3, 5]
+Target value: 14, SquareIDs: [7, 11, 12, 13]
+Target value: 11, SquareIDs: [8, 9, 10]
+Target value: 5, SquareIDs: [4, 6]
+The Board:
+  4 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  0   3 -10 -10 -10 -10 
+  3   2 -10 -10 -10 -10 
+  2   3   4   2   5 -10 
+  1   6   4   0   0 -10 
+The Dominoes:
+[2 | 3]
+[1 | 6]
+[4 | 4]
+[2 | 0]
+[5 | 0]
+[0 | 3]
+[3 | 2]
+[4 | 1]
+Generate Instance 67----------------------
+Target value: 12, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 18, SquareIDs: [6, 7, 11, 12]
+Target value: 6, SquareIDs: [10, 14, 15]
+Target value: 2, SquareIDs: [8, 9]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  1   1 -10 -10 -10 -10 
+  6   0 -10 -10 -10 -10 
+  6   6   0   2   2 -10 
+  2   4   0   3   1 -10 
+The Dominoes:
+[6 | 2]
+[6 | 4]
+[0 | 2]
+[0 | 3]
+[2 | 1]
+[1 | 6]
+[1 | 0]
+[3 | 1]
+Generate Instance 68----------------------
+Target value: 15, SquareIDs: [1, 2, 3, 5, 7]
+Target value: 14, SquareIDs: [4, 6, 11, 12]
+Target value: 14, SquareIDs: [9, 13, 14]
+Target value: 1, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  6   4 -10 -10 -10 -10 
+  5   1 -10 -10 -10 -10 
+  2   1   0   6   1 -10 
+  6   1   4   4   0 -10 
+The Dominoes:
+[2 | 1]
+[6 | 1]
+[6 | 1]
+[4 | 0]
+[0 | 4]
+[6 | 4]
+[5 | 1]
+[0 | 3]
+Generate Instance 69----------------------
+Target value: 19, SquareIDs: [7, 8, 9, 10, 14]
+Target value: 9, SquareIDs: [6, 11, 12, 13]
+Target value: 3, SquareIDs: [0, 1, 2]
+Target value: 7, SquareIDs: [3, 5]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  0   5 -10 -10 -10 -10 
+  0   6   3   3   1 -10 
+  3   5   1   6   0 -10 
+The Dominoes:
+[0 | 6]
+[3 | 3]
+[3 | 5]
+[1 | 6]
+[1 | 0]
+[0 | 2]
+[0 | 5]
+[3 | 0]
+Generate Instance 70----------------------
+Target value: 20, SquareIDs: [0, 1, 2, 4, 5]
+Target value: 7, SquareIDs: [6, 7, 8, 11]
+Target value: 10, SquareIDs: [13, 14, 15]
+Target value: 10, SquareIDs: [9, 10]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  6   6 -10 -10 -10 -10 
+  1   0   1   6   4 -10 
+  5   0   4   2   4 -10 
+The Dominoes:
+[1 | 0]
+[6 | 4]
+[5 | 0]
+[2 | 4]
+[1 | 4]
+[2 | 6]
+[0 | 6]
+[0 | 6]
+Generate Instance 71----------------------
+Target value: 21, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 18, SquareIDs: [6, 11, 12, 13]
+Target value: 15, SquareIDs: [10, 14, 15]
+Target value: 6, SquareIDs: [8, 9]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  4   2 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  5   0   3   3   5 -10 
+  4   6   3   6   4 -10 
+The Dominoes:
+[5 | 0]
+[3 | 5]
+[4 | 6]
+[6 | 4]
+[3 | 3]
+[4 | 4]
+[2 | 0]
+[5 | 6]
+Generate Instance 72----------------------
+Target value: 13, SquareIDs: [5, 6, 7, 8, 12]
+Target value: 17, SquareIDs: [9, 10, 14, 15]
+Target value: 7, SquareIDs: [2, 3, 4]
+Target value: 4, SquareIDs: [0, 1]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  0   3 -10 -10 -10 -10 
+  4   1 -10 -10 -10 -10 
+  2   5   5   6   5 -10 
+  0   0   0   5   1 -10 
+The Dominoes:
+[2 | 5]
+[0 | 0]
+[5 | 0]
+[6 | 5]
+[5 | 1]
+[0 | 4]
+[3 | 1]
+[0 | 4]
+Generate Instance 73----------------------
+Target value: 10, SquareIDs: [9, 10, 13, 14, 15]
+Target value: 13, SquareIDs: [4, 5, 7, 8]
+Target value: 4, SquareIDs: [1, 2, 3]
+Target value: 10, SquareIDs: [6, 11]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  2   2 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  6   6   5   6   0 -10 
+  4   0   1   3   0 -10 
+The Dominoes:
+[0 | 6]
+[2 | 6]
+[5 | 6]
+[4 | 0]
+[1 | 3]
+[0 | 0]
+[2 | 2]
+[0 | 0]
+Generate Instance 74----------------------
+Target value: 14, SquareIDs: [8, 10, 13, 14, 15]
+Target value: 13, SquareIDs: [2, 3, 4, 6]
+Target value: 11, SquareIDs: [7, 11, 12]
+Target value: 11, SquareIDs: [0, 1]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  4   1 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  6   4   5   0   4 -10 
+  6   1   0   2   3 -10 
+The Dominoes:
+[6 | 6]
+[4 | 1]
+[5 | 0]
+[0 | 4]
+[2 | 3]
+[4 | 1]
+[2 | 0]
+[6 | 5]
+Generate Instance 75----------------------
+Target value: 14, SquareIDs: [7, 8, 9, 11, 12]
+Target value: 11, SquareIDs: [10, 13, 14, 15]
+Target value: 12, SquareIDs: [2, 3, 5]
+Target value: 3, SquareIDs: [4, 6]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  4   4 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  3   1   5   0   4 -10 
+  5   3   1   1   5 -10 
+The Dominoes:
+[3 | 5]
+[1 | 3]
+[5 | 1]
+[0 | 4]
+[1 | 5]
+[4 | 0]
+[4 | 4]
+[0 | 0]
+Generate Instance 76----------------------
+Target value: 12, SquareIDs: [0, 1, 2, 3, 4]
+Target value: 2, SquareIDs: [6, 7, 11, 12]
+Target value: 8, SquareIDs: [8, 9, 10]
+Target value: 5, SquareIDs: [14, 15]
+The Board:
+  6 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  0   0 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  0   0   2   1   5 -10 
+  0   2   0   2   3 -10 
+The Dominoes:
+[0 | 0]
+[0 | 2]
+[2 | 0]
+[1 | 2]
+[5 | 3]
+[0 | 0]
+[1 | 0]
+[6 | 5]
+Generate Instance 77----------------------
+Target value: 25, SquareIDs: [0, 1, 2, 4, 5]
+Target value: 16, SquareIDs: [8, 9, 10, 15]
+Target value: 9, SquareIDs: [7, 11, 12]
+Target value: 8, SquareIDs: [13, 14]
+The Board:
+  4 -10 -10 -10 -10 -10 
+  6 -10 -10 -10 -10 -10 
+  5   0 -10 -10 -10 -10 
+  6   4 -10 -10 -10 -10 
+  0   0   4   3   5 -10 
+  6   3   6   2   4 -10 
+The Dominoes:
+[0 | 0]
+[6 | 3]
+[4 | 6]
+[3 | 2]
+[5 | 4]
+[5 | 6]
+[0 | 4]
+[4 | 6]
+Generate Instance 78----------------------
+Target value: 11, SquareIDs: [0, 1, 2, 4, 6]
+Target value: 14, SquareIDs: [8, 9, 10, 14]
+Target value: 10, SquareIDs: [7, 12, 13]
+Target value: 8, SquareIDs: [3, 5]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  4   2 -10 -10 -10 -10 
+  1   6 -10 -10 -10 -10 
+  5   3   3   3   3 -10 
+  0   5   2   5   0 -10 
+The Dominoes:
+[5 | 3]
+[3 | 3]
+[0 | 5]
+[5 | 0]
+[3 | 2]
+[4 | 1]
+[2 | 6]
+[1 | 0]
+Generate Instance 79----------------------
+Target value: 15, SquareIDs: [0, 1, 2, 4, 6]
+Target value: 12, SquareIDs: [7, 8, 9, 12]
+Target value: 2, SquareIDs: [13, 14, 15]
+Target value: 3, SquareIDs: [3, 5]
+The Board:
+  1 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  5   3 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  6   2   0   4   0 -10 
+  0   6   0   0   2 -10 
+The Dominoes:
+[6 | 2]
+[0 | 6]
+[0 | 0]
+[4 | 0]
+[0 | 2]
+[5 | 3]
+[1 | 0]
+[1 | 2]
+Generate Instance 80----------------------
+Target value: 14, SquareIDs: [7, 8, 12, 13, 14]
+Target value: 6, SquareIDs: [2, 4, 6, 11]
+Target value: 6, SquareIDs: [9, 10, 15]
+Target value: 8, SquareIDs: [0, 1]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  0   0   6   1   5 -10 
+  3   4   4   0   0 -10 
+The Dominoes:
+[0 | 0]
+[3 | 4]
+[6 | 4]
+[1 | 0]
+[5 | 0]
+[2 | 1]
+[0 | 0]
+[5 | 3]
+Generate Instance 81----------------------
+Target value: 13, SquareIDs: [1, 2, 3, 4, 5]
+Target value: 12, SquareIDs: [6, 7, 11, 12]
+Target value: 9, SquareIDs: [8, 9, 14]
+Target value: 6, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  3   3 -10 -10 -10 -10 
+  0   5 -10 -10 -10 -10 
+  6   0   6   3   2 -10 
+  4   2   0   0   4 -10 
+The Dominoes:
+[6 | 0]
+[3 | 2]
+[4 | 2]
+[0 | 4]
+[6 | 0]
+[3 | 0]
+[3 | 5]
+[0 | 2]
+Generate Instance 82----------------------
+Target value: 11, SquareIDs: [8, 9, 10, 14, 15]
+Target value: 4, SquareIDs: [4, 6, 11, 12]
+Target value: 5, SquareIDs: [3, 5, 7]
+Target value: 5, SquareIDs: [1, 2]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  1   2 -10 -10 -10 -10 
+  1   2 -10 -10 -10 -10 
+  0   1   0   1   4 -10 
+  2   1   0   4   2 -10 
+The Dominoes:
+[0 | 2]
+[1 | 1]
+[0 | 0]
+[1 | 4]
+[4 | 2]
+[1 | 1]
+[2 | 2]
+[0 | 4]
+Generate Instance 83----------------------
+Target value: 10, SquareIDs: [2, 3, 4, 6, 11]
+Target value: 17, SquareIDs: [10, 13, 14, 15]
+Target value: 6, SquareIDs: [7, 8, 9]
+Target value: 5, SquareIDs: [0, 1]
+The Board:
+  2 -10 -10 -10 -10 -10 
+  3 -10 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  0   6   0   0   3 -10 
+  4   0   4   4   6 -10 
+The Dominoes:
+[0 | 6]
+[4 | 0]
+[0 | 4]
+[0 | 4]
+[3 | 6]
+[0 | 4]
+[2 | 0]
+[2 | 3]
+Generate Instance 84----------------------
+Target value: 18, SquareIDs: [2, 3, 5, 6, 7]
+Target value: 12, SquareIDs: [8, 12, 13, 14]
+Target value: 6, SquareIDs: [9, 10, 15]
+Target value: 1, SquareIDs: [0, 1]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  0   4 -10 -10 -10 -10 
+  6   4   1   0   0 -10 
+  0   6   1   4   6 -10 
+The Dominoes:
+[6 | 4]
+[0 | 0]
+[0 | 6]
+[4 | 6]
+[1 | 1]
+[1 | 0]
+[3 | 4]
+[0 | 1]
+Generate Instance 85----------------------
+Target value: 5, SquareIDs: [9, 10, 13, 14, 15]
+Target value: 17, SquareIDs: [5, 6, 7, 12]
+Target value: 15, SquareIDs: [2, 3, 4]
+Target value: 5, SquareIDs: [0, 1]
+The Board:
+  3 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  6   5 -10 -10 -10 -10 
+  4   6 -10 -10 -10 -10 
+  1   5   0   1   0 -10 
+  0   5   1   0   3 -10 
+The Dominoes:
+[1 | 5]
+[0 | 1]
+[0 | 5]
+[1 | 0]
+[0 | 3]
+[6 | 4]
+[5 | 6]
+[3 | 2]
+Generate Instance 86----------------------
+Target value: 14, SquareIDs: [8, 9, 12, 13, 14]
+Target value: 19, SquareIDs: [1, 2, 4, 6]
+Target value: 13, SquareIDs: [3, 5, 7]
+Target value: 12, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  6   5 -10 -10 -10 -10 
+  6   3 -10 -10 -10 -10 
+  3   5   3   3   6 -10 
+  0   0   6   2   6 -10 
+The Dominoes:
+[3 | 5]
+[0 | 0]
+[3 | 6]
+[3 | 2]
+[6 | 6]
+[6 | 5]
+[6 | 3]
+[0 | 4]
+Generate Instance 87----------------------
+Target value: 15, SquareIDs: [8, 9, 10, 14, 15]
+Target value: 14, SquareIDs: [4, 5, 6, 7]
+Target value: 13, SquareIDs: [1, 2, 3]
+Target value: 7, SquareIDs: [11, 12]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  5   4 -10 -10 -10 -10 
+  1   5 -10 -10 -10 -10 
+  4   4   2   2   4 -10 
+  3   4   0   1   6 -10 
+The Dominoes:
+[4 | 2]
+[2 | 4]
+[4 | 0]
+[1 | 6]
+[4 | 3]
+[5 | 1]
+[4 | 5]
+[0 | 4]
+Generate Instance 88----------------------
+Target value: 24, SquareIDs: [1, 2, 4, 6, 7]
+Target value: 13, SquareIDs: [11, 12, 13, 14]
+Target value: 14, SquareIDs: [9, 10, 15]
+Target value: 6, SquareIDs: [3, 5]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  4 -10 -10 -10 -10 -10 
+  5   1 -10 -10 -10 -10 
+  6   5 -10 -10 -10 -10 
+  5   4   0   6   2 -10 
+  1   0   6   6   6 -10 
+The Dominoes:
+[5 | 1]
+[4 | 0]
+[0 | 6]
+[6 | 2]
+[6 | 6]
+[5 | 6]
+[1 | 5]
+[0 | 4]
+Generate Instance 89----------------------
+Target value: 19, SquareIDs: [6, 7, 11, 12, 13]
+Target value: 9, SquareIDs: [2, 3, 4, 5]
+Target value: 16, SquareIDs: [10, 14, 15]
+Target value: 1, SquareIDs: [0, 1]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  3   3 -10 -10 -10 -10 
+  1   2 -10 -10 -10 -10 
+  3   5   0   0   5 -10 
+  2   4   5   5   6 -10 
+The Dominoes:
+[3 | 2]
+[5 | 0]
+[4 | 5]
+[0 | 5]
+[5 | 6]
+[3 | 3]
+[1 | 2]
+[0 | 1]
+Generate Instance 90----------------------
+Target value: 9, SquareIDs: [2, 3, 4, 5, 7]
+Target value: 17, SquareIDs: [6, 11, 12, 13]
+Target value: 13, SquareIDs: [8, 9, 14]
+Target value: 5, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  4   2 -10 -10 -10 -10 
+  4   1   5   2   5 -10 
+  6   5   2   6   0 -10 
+The Dominoes:
+[1 | 5]
+[2 | 5]
+[5 | 2]
+[6 | 0]
+[4 | 6]
+[0 | 4]
+[2 | 2]
+[0 | 0]
+Generate Instance 91----------------------
+Target value: 19, SquareIDs: [1, 2, 3, 4, 5]
+Target value: 6, SquareIDs: [8, 13, 14, 15]
+Target value: 2, SquareIDs: [6, 7, 12]
+Target value: 2, SquareIDs: [9, 10]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  3   5 -10 -10 -10 -10 
+  1   5 -10 -10 -10 -10 
+  0   2   1   1   1 -10 
+  0   0   4   1   0 -10 
+The Dominoes:
+[0 | 0]
+[2 | 0]
+[1 | 1]
+[4 | 1]
+[1 | 0]
+[3 | 1]
+[5 | 5]
+[0 | 5]
+Generate Instance 92----------------------
+Target value: 19, SquareIDs: [4, 5, 7, 8, 13]
+Target value: 5, SquareIDs: [9, 10, 14, 15]
+Target value: 10, SquareIDs: [6, 11, 12]
+Target value: 6, SquareIDs: [2, 3]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  5   1 -10 -10 -10 -10 
+  4   2 -10 -10 -10 -10 
+  6   6   5   2   0 -10 
+  2   2   2   3   0 -10 
+The Dominoes:
+[6 | 6]
+[2 | 2]
+[5 | 2]
+[2 | 3]
+[0 | 0]
+[5 | 1]
+[4 | 2]
+[0 | 0]
+Generate Instance 93----------------------
+Target value: 18, SquareIDs: [5, 6, 7, 8, 11]
+Target value: 9, SquareIDs: [9, 10, 14, 15]
+Target value: 2, SquareIDs: [1, 2, 4]
+Target value: 5, SquareIDs: [12, 13]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  0   0 -10 -10 -10 -10 
+  2   1 -10 -10 -10 -10 
+  2   6   3   5   2 -10 
+  6   2   3   1   1 -10 
+The Dominoes:
+[2 | 6]
+[6 | 2]
+[3 | 3]
+[5 | 1]
+[2 | 1]
+[0 | 0]
+[2 | 1]
+[0 | 0]
+Generate Instance 94----------------------
+Target value: 10, SquareIDs: [2, 3, 4, 5, 7]
+Target value: 9, SquareIDs: [10, 13, 14, 15]
+Target value: 2, SquareIDs: [6, 11, 12]
+Target value: 8, SquareIDs: [8, 9]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  1   0 -10 -10 -10 -10 
+  4   4 -10 -10 -10 -10 
+  0   1   3   5   4 -10 
+  1   1   1   2   2 -10 
+The Dominoes:
+[0 | 1]
+[1 | 1]
+[3 | 1]
+[5 | 2]
+[4 | 2]
+[1 | 0]
+[4 | 4]
+[0 | 0]
+Generate Instance 95----------------------
+Target value: 14, SquareIDs: [4, 6, 7, 8, 12]
+Target value: 8, SquareIDs: [0, 1, 2, 3]
+Target value: 9, SquareIDs: [13, 14, 15]
+Target value: 9, SquareIDs: [9, 10]
+The Board:
+  2 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  3   1 -10 -10 -10 -10 
+  4   0 -10 -10 -10 -10 
+  5   2   3   3   6 -10 
+  0   0   3   1   5 -10 
+The Dominoes:
+[5 | 0]
+[2 | 0]
+[3 | 3]
+[3 | 6]
+[1 | 5]
+[3 | 4]
+[1 | 0]
+[2 | 2]
+Generate Instance 96----------------------
+Target value: 14, SquareIDs: [7, 8, 11, 12, 13]
+Target value: 13, SquareIDs: [0, 1, 2, 3]
+Target value: 12, SquareIDs: [4, 5, 6]
+Target value: 8, SquareIDs: [10, 15]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  5   1 -10 -10 -10 -10 
+  5   6 -10 -10 -10 -10 
+  1   5   5   0   2 -10 
+  3   0   1   0   6 -10 
+The Dominoes:
+[1 | 3]
+[5 | 0]
+[5 | 0]
+[1 | 0]
+[2 | 6]
+[5 | 1]
+[5 | 6]
+[5 | 2]
+Generate Instance 97----------------------
+Target value: 13, SquareIDs: [4, 5, 6, 11, 12]
+Target value: 5, SquareIDs: [0, 1, 2, 3]
+Target value: 13, SquareIDs: [7, 8, 13]
+Target value: 2, SquareIDs: [14, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  0 -10 -10 -10 -10 -10 
+  2   3 -10 -10 -10 -10 
+  5   2 -10 -10 -10 -10 
+  4   6   5   0   0 -10 
+  1   1   2   2   0 -10 
+The Dominoes:
+[4 | 6]
+[0 | 0]
+[1 | 1]
+[2 | 0]
+[5 | 2]
+[2 | 5]
+[3 | 2]
+[0 | 0]
+Generate Instance 98----------------------
+Target value: 16, SquareIDs: [7, 8, 9, 10, 14]
+Target value: 19, SquareIDs: [2, 3, 4, 5]
+Target value: 5, SquareIDs: [6, 11, 12]
+Target value: 10, SquareIDs: [0, 1]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  5 -10 -10 -10 -10 -10 
+  6   5 -10 -10 -10 -10 
+  4   4 -10 -10 -10 -10 
+  0   3   4   0   6 -10 
+  2   3   0   3   0 -10 
+The Dominoes:
+[4 | 0]
+[4 | 3]
+[4 | 0]
+[2 | 3]
+[0 | 3]
+[6 | 0]
+[6 | 5]
+[5 | 5]
+Generate Instance 99----------------------
+Target value: 18, SquareIDs: [9, 10, 13, 14, 15]
+Target value: 6, SquareIDs: [2, 3, 4, 5]
+Target value: 6, SquareIDs: [7, 11, 12]
+Target value: 7, SquareIDs: [0, 1]
+The Board:
+  5 -10 -10 -10 -10 -10 
+  2 -10 -10 -10 -10 -10 
+  1   3 -10 -10 -10 -10 
+  0   2 -10 -10 -10 -10 
+  0   3   0   6   3 -10 
+  2   1   1   5   3 -10 
+The Dominoes:
+[0 | 3]
+[0 | 6]
+[2 | 1]
+[1 | 5]
+[3 | 3]
+[1 | 3]
+[0 | 2]
+[5 | 2]
+Generate Instance 100----------------------
+Target value: 12, SquareIDs: [5, 6, 7, 8, 9]
+Target value: 14, SquareIDs: [11, 12, 13, 14]
+Target value: 3, SquareIDs: [1, 2, 3]
+Target value: 7, SquareIDs: [10, 15]
+The Board:
+  0 -10 -10 -10 -10 -10 
+  1 -10 -10 -10 -10 -10 
+  2   0 -10 -10 -10 -10 
+  0   1 -10 -10 -10 -10 
+  6   2   2   1   2 -10 
+  2   4   5   3   5 -10 
+The Dominoes:
+[6 | 2]
+[2 | 4]
+[2 | 1]
+[5 | 3]
+[2 | 5]
+[2 | 0]
+[0 | 1]
+[0 | 1]
+Running 1...
+	 Solution found in 7.
+	 Solution found in 6.
+	 Solution found in 5.
+Running 2...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 3...
+	 Solution found in 38.
+	 Solution found in 26.
+	 Solution found in 28.
+Running 4...
+	 Solution found in 8.
+	 Solution found in 9.
+	 Solution found in 9.
+Running 5...
+	 Solution found in 121.
+	 Solution found in 135.
+	 Solution found in 136.
+Running 6...
+	 Solution found in 9.
+	 Solution found in 10.
+	 Solution found in 10.
+Running 7...
+	 Solution found in 52.
+	 Solution found in 50.
+	 Solution found in 62.
+Running 8...
+	 Solution found in 4.
+	 Solution found in 5.
+	 Solution found in 5.
+Running 9...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 10...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 4.
+Running 11...
+	 Solution found in 11.
+	 Solution found in 21.
+	 Solution found in 13.
+Running 12...
+	 Solution found in 5794.
+	 Solution found in 13449.
+	 Solution found in 12504.
+Running 13...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 14...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 15...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 16...
+	 Solution found in 87.
+	 Solution found in 177.
+	 Solution found in 128.
+Running 17...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 18...
+	 Solution found in 13.
+	 Solution found in 14.
+	 Solution found in 15.
+Running 19...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 20...
+	 Solution found in 51.
+	 Solution found in 61.
+	 Solution found in 46.
+Running 21...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 22...
+	 Solution found in 36.
+	 Solution found in 26.
+	 Solution found in 32.
+Running 23...
+	 Solution found in 118.
+	 Solution found in 145.
+	 Solution found in 173.
+Running 24...
+	 Solution found in 385.
+	 Solution found in 830.
+	 Solution found in 609.
+Running 25...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 26...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 27...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 28...
+	 Solution found in 5.
+	 Solution found in 5.
+	 Solution found in 6.
+Running 29...
+	 Solution found in 86.
+	 Solution found in 39.
+	 Solution found in 43.
+Running 30...
+	 Solution found in 174.
+	 Solution found in 204.
+	 Solution found in 200.
+Running 31...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 32...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 33...
+	 Solution found in 13.
+	 Solution found in 14.
+	 Solution found in 15.
+Running 34...
+	 Solution found in 127.
+	 Solution found in 1819.
+	 Solution found in 543.
+Running 35...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 36...
+	 Solution found in 18.
+	 Solution found in 20.
+	 Solution found in 21.
+Running 37...
+	 Solution found in 1089.
+	 Solution found in 1118.
+	 Solution found in 310.
+Running 38...
+	 Solution found in 68.
+	 Solution found in 95.
+	 Solution found in 101.
+Running 39...
+	 Solution found in 239.
+	 Solution found in 227.
+	 Solution found in 236.
+Running 40...
+	 Solution found in 15.
+	 Solution found in 17.
+	 Solution found in 18.
+Running 41...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 42...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 43...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 6.
+Running 44...
+	 Solution found in 9.
+	 Solution found in 24.
+	 Solution found in 19.
+Running 45...
+	 Solution found in 1.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 46...
+	 Solution found in 36.
+	 Solution found in 27.
+	 Solution found in 30.
+Running 47...
+	 Solution found in 944.
+	 Solution found in 1476.
+	 Solution found in 1794.
+Running 48...
+	 Solution found in 127.
+	 Solution found in 193.
+	 Solution found in 79.
+Running 49...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 50...
+	 Solution found in 474.
+	 Solution found in 674.
+	 Solution found in 504.
+Running 51...
+	 Solution found in 8.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 52...
+	 Solution found in 11.
+	 Solution found in 18.
+	 Solution found in 20.
+Running 53...
+	 Solution found in 21.
+	 Solution found in 22.
+	 Solution found in 24.
+Running 54...
+	 Solution found in 5.
+	 Solution found in 5.
+	 Solution found in 6.
+Running 55...
+	 Solution found in 1029.
+	 Solution found in 763.
+	 Solution found in 753.
+Running 56...
+	 Solution found in 9.
+	 Solution found in 10.
+	 Solution found in 11.
+Running 57...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 58...
+	 Solution found in 158.
+	 Solution found in 171.
+	 Solution found in 176.
+Running 59...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 60...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 61...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 62...
+	 Solution found in 38.
+	 Solution found in 43.
+	 Solution found in 45.
+Running 63...
+	 Solution found in 99.
+	 Solution found in 163.
+	 Solution found in 758.
+Running 64...
+	 Solution found in 175.
+	 Solution found in 270.
+	 Solution found in 50.
+Running 65...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 66...
+	 Solution found in 859.
+	 Solution found in 963.
+	 Solution found in 1205.
+Running 67...
+	 Solution found in 151.
+	 Solution found in 123.
+	 Solution found in 175.
+Running 68...
+	 Solution found in 34.
+	 Solution found in 36.
+	 Solution found in 40.
+Running 69...
+	 Solution found in 58.
+	 Solution found in 55.
+	 Solution found in 78.
+Running 70...
+	 Solution found in 4.
+	 Solution found in 5.
+	 Solution found in 7.
+Running 71...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 72...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 73...
+	 Solution found in 10.
+	 Solution found in 11.
+	 Solution found in 12.
+Running 74...
+	 Solution found in 62.
+	 Solution found in 75.
+	 Solution found in 82.
+Running 75...
+	 Solution found in 49.
+	 Solution found in 55.
+	 Solution found in 60.
+Running 76...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 77...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 78...
+	 Solution found in 2.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 79...
+	 Solution found in 7.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 80...
+	 Solution found in 75.
+	 Solution found in 85.
+	 Solution found in 72.
+Running 81...
+	 Solution found in 36.
+	 Solution found in 40.
+	 Solution found in 43.
+Running 82...
+	 Solution found in 503.
+	 Solution found in 562.
+	 Solution found in 940.
+Running 83...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 84...
+	 Solution found in 359.
+	 Solution found in 374.
+	 Solution found in 327.
+Running 85...
+	 Solution found in 105.
+	 Solution found in 93.
+	 Solution found in 117.
+Running 86...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 4.
+Running 87...
+	 Solution found in 720.
+	 Solution found in 1121.
+	 Solution found in 1720.
+Running 88...
+	 Solution found in 21.
+	 Solution found in 23.
+	 Solution found in 25.
+Running 89...
+	 Solution found in 6.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 90...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 91...
+	 Solution found in 69.
+	 Solution found in 54.
+	 Solution found in 87.
+Running 92...
+	 Solution found in 182.
+	 Solution found in 322.
+	 Solution found in 213.
+Running 93...
+	 Solution found in 372.
+	 Solution found in 445.
+	 Solution found in 685.
+Running 94...
+	 Solution found in 2.
+	 Solution found in 1.
+	 Solution found in 2.
+Running 95...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 96...
+	 Solution found in 35.
+	 Solution found in 44.
+	 Solution found in 49.
+Running 97...
+	 Solution found in 22.
+	 Solution found in 24.
+	 Solution found in 22.
+Running 98...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 7.
+Running 99...
+	 Solution found in 121.
+	 Solution found in 181.
+	 Solution found in 268.
+Running 100...
+	 Solution found in 2972.
+	 Solution found in 3399.
+	 Solution found in 3236.

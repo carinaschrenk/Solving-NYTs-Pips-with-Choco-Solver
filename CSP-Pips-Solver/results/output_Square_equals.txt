@@ -1,0 +1,2300 @@
+Generate Instance 1----------------------
+SquareIds of Constraint: [9, 10, 11, 14, 15]
+SquareIds of Constraint: [1, 4, 5, 6]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [12, 13]
+The Board:
+  5   6   0   0 
+  6   6   6   0 
+  5   4   4   4 
+  3   3   4   4 
+The Dominoes:
+[5 | 6]
+[6 | 6]
+[0 | 6]
+[0 | 0]
+[5 | 4]
+[4 | 4]
+[3 | 3]
+[4 | 4]
+Generate Instance 2----------------------
+SquareIds of Constraint: [4, 8, 9, 12, 13]
+SquareIds of Constraint: [10, 11, 14, 15]
+SquareIds of Constraint: [2, 5, 6]
+SquareIds of Constraint: [0, 1]
+The Board:
+  5   5   4   0 
+  6   4   4   0 
+  6   6   3   3 
+  6   6   3   3 
+The Dominoes:
+[5 | 5]
+[4 | 0]
+[6 | 4]
+[4 | 0]
+[6 | 6]
+[3 | 3]
+[6 | 6]
+[3 | 3]
+Generate Instance 3----------------------
+SquareIds of Constraint: [0, 1, 2, 4, 8]
+SquareIds of Constraint: [5, 6, 7, 9]
+SquareIds of Constraint: [10, 11, 15]
+SquareIds of Constraint: [13, 14]
+The Board:
+  6   6   6   2 
+  6   5   5   5 
+  6   5   4   4 
+  2   0   0   4 
+The Dominoes:
+[6 | 6]
+[6 | 5]
+[6 | 2]
+[5 | 5]
+[6 | 2]
+[5 | 0]
+[4 | 0]
+[4 | 4]
+Generate Instance 4----------------------
+SquareIds of Constraint: [0, 4, 5, 8, 9]
+SquareIds of Constraint: [7, 10, 11, 14]
+SquareIds of Constraint: [1, 2, 6]
+SquareIds of Constraint: [12, 13]
+The Board:
+  0   3   3   6 
+  0   0   3   4 
+  0   0   4   4 
+  1   1   4   6 
+The Dominoes:
+[0 | 3]
+[3 | 6]
+[0 | 0]
+[3 | 4]
+[4 | 4]
+[0 | 1]
+[0 | 1]
+[4 | 6]
+Generate Instance 5----------------------
+SquareIds of Constraint: [0, 1, 2, 4, 5]
+SquareIds of Constraint: [8, 9, 12, 13]
+SquareIds of Constraint: [6, 7, 11]
+SquareIds of Constraint: [10, 14]
+The Board:
+  3   3   3   6 
+  3   3   0   0 
+  5   5   2   0 
+  5   5   2   6 
+The Dominoes:
+[3 | 3]
+[3 | 3]
+[3 | 6]
+[0 | 2]
+[0 | 0]
+[5 | 5]
+[5 | 5]
+[2 | 6]
+Generate Instance 6----------------------
+SquareIds of Constraint: [0, 4, 8, 9, 13]
+SquareIds of Constraint: [2, 3, 6, 7]
+SquareIds of Constraint: [11, 14, 15]
+SquareIds of Constraint: [1, 5]
+The Board:
+  1   4   5   5 
+  1   4   5   5 
+  1   1   6   2 
+  6   1   2   2 
+The Dominoes:
+[1 | 4]
+[5 | 5]
+[5 | 5]
+[1 | 4]
+[1 | 1]
+[6 | 2]
+[6 | 1]
+[2 | 2]
+Generate Instance 7----------------------
+SquareIds of Constraint: [2, 3, 6, 7, 11]
+SquareIds of Constraint: [0, 4, 8, 12]
+SquareIds of Constraint: [5, 9, 10]
+SquareIds of Constraint: [13, 14]
+The Board:
+  3   2   1   1 
+  3   6   1   1 
+  3   6   6   1 
+  3   5   5   2 
+The Dominoes:
+[3 | 2]
+[1 | 1]
+[3 | 3]
+[6 | 6]
+[1 | 1]
+[6 | 5]
+[1 | 2]
+[3 | 5]
+Generate Instance 8----------------------
+SquareIds of Constraint: [4, 8, 9, 12, 13]
+SquareIds of Constraint: [3, 7, 10, 11]
+SquareIds of Constraint: [2, 5, 6]
+SquareIds of Constraint: [14, 15]
+The Board:
+  0   0   6   2 
+  5   6   6   2 
+  5   5   2   2 
+  5   5   3   3 
+The Dominoes:
+[0 | 5]
+[0 | 6]
+[6 | 2]
+[6 | 2]
+[2 | 2]
+[5 | 5]
+[5 | 5]
+[3 | 3]
+Generate Instance 9----------------------
+SquareIds of Constraint: [2, 6, 7, 10, 11]
+SquareIds of Constraint: [5, 8, 9, 12]
+SquareIds of Constraint: [0, 1, 4]
+SquareIds of Constraint: [13, 14]
+The Board:
+  6   6   0   4 
+  6   5   0   0 
+  5   5   0   0 
+  5   2   2   4 
+The Dominoes:
+[6 | 6]
+[6 | 5]
+[0 | 0]
+[4 | 0]
+[5 | 5]
+[0 | 0]
+[5 | 2]
+[2 | 4]
+Generate Instance 10----------------------
+SquareIds of Constraint: [1, 2, 4, 5, 6]
+SquareIds of Constraint: [9, 10, 11, 15]
+SquareIds of Constraint: [8, 12, 13]
+SquareIds of Constraint: [3, 7]
+The Board:
+  4   6   6   5 
+  6   6   6   5 
+  1   0   0   0 
+  1   1   4   0 
+The Dominoes:
+[4 | 6]
+[6 | 6]
+[6 | 5]
+[6 | 5]
+[1 | 1]
+[0 | 0]
+[0 | 0]
+[1 | 4]
+Generate Instance 11----------------------
+SquareIds of Constraint: [4, 5, 9, 10, 11]
+SquareIds of Constraint: [8, 12, 13, 14]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [0, 1]
+The Board:
+  0   0   2   2 
+  1   1   4   2 
+  5   1   1   1 
+  5   5   5   4 
+The Dominoes:
+[0 | 0]
+[2 | 2]
+[1 | 5]
+[1 | 4]
+[2 | 1]
+[1 | 1]
+[5 | 5]
+[5 | 4]
+Generate Instance 12----------------------
+SquareIds of Constraint: [7, 10, 11, 14, 15]
+SquareIds of Constraint: [4, 5, 8, 12]
+SquareIds of Constraint: [1, 2, 3]
+SquareIds of Constraint: [9, 13]
+The Board:
+  1   3   3   3 
+  5   5   1   4 
+  5   0   4   4 
+  5   0   4   4 
+The Dominoes:
+[1 | 3]
+[3 | 1]
+[3 | 4]
+[5 | 5]
+[5 | 0]
+[4 | 4]
+[4 | 4]
+[5 | 0]
+Generate Instance 13----------------------
+SquareIds of Constraint: [6, 7, 10, 11, 15]
+SquareIds of Constraint: [0, 4, 5, 9]
+SquareIds of Constraint: [8, 12, 13]
+SquareIds of Constraint: [1, 2]
+The Board:
+  2   0   0   1 
+  2   2   5   5 
+  4   2   5   5 
+  4   4   1   5 
+The Dominoes:
+[2 | 0]
+[0 | 1]
+[2 | 2]
+[5 | 5]
+[4 | 4]
+[2 | 4]
+[5 | 1]
+[5 | 5]
+Generate Instance 14----------------------
+SquareIds of Constraint: [2, 6, 7, 10, 11]
+SquareIds of Constraint: [8, 9, 12, 13]
+SquareIds of Constraint: [1, 4, 5]
+SquareIds of Constraint: [14, 15]
+The Board:
+  6   0   1   6 
+  0   0   1   1 
+  4   4   1   1 
+  4   4   5   5 
+The Dominoes:
+[6 | 0]
+[1 | 1]
+[6 | 1]
+[0 | 4]
+[0 | 4]
+[1 | 5]
+[1 | 5]
+[4 | 4]
+Generate Instance 15----------------------
+SquareIds of Constraint: [3, 5, 6, 7, 11]
+SquareIds of Constraint: [12, 13, 14, 15]
+SquareIds of Constraint: [8, 9, 10]
+SquareIds of Constraint: [1, 2]
+The Board:
+  0   4   4   3 
+  0   3   3   3 
+  1   1   1   3 
+  2   2   2   2 
+The Dominoes:
+[0 | 4]
+[4 | 3]
+[3 | 3]
+[0 | 3]
+[1 | 1]
+[1 | 3]
+[2 | 2]
+[2 | 2]
+Generate Instance 16----------------------
+SquareIds of Constraint: [6, 7, 10, 11, 15]
+SquareIds of Constraint: [8, 9, 12, 13]
+SquareIds of Constraint: [0, 4, 5]
+SquareIds of Constraint: [2, 3]
+The Board:
+  1   2   3   3 
+  1   1   6   6 
+  4   4   6   6 
+  4   4   2   6 
+The Dominoes:
+[1 | 2]
+[3 | 3]
+[1 | 1]
+[6 | 6]
+[4 | 4]
+[4 | 4]
+[6 | 6]
+[2 | 6]
+Generate Instance 17----------------------
+SquareIds of Constraint: [2, 3, 7, 11, 15]
+SquareIds of Constraint: [0, 1, 4, 5]
+SquareIds of Constraint: [8, 12, 13]
+SquareIds of Constraint: [6, 10]
+The Board:
+  2   2   6   6 
+  2   2   5   6 
+  4   3   5   6 
+  4   4   3   6 
+The Dominoes:
+[2 | 2]
+[6 | 5]
+[6 | 6]
+[2 | 4]
+[2 | 3]
+[5 | 6]
+[4 | 4]
+[3 | 6]
+Generate Instance 18----------------------
+SquareIds of Constraint: [10, 12, 13, 14, 15]
+SquareIds of Constraint: [5, 6, 7, 11]
+SquareIds of Constraint: [4, 8, 9]
+SquareIds of Constraint: [0, 1]
+The Board:
+  4   4   5   5 
+  1   0   0   0 
+  1   1   6   0 
+  6   6   6   6 
+The Dominoes:
+[4 | 4]
+[5 | 0]
+[5 | 0]
+[1 | 0]
+[1 | 6]
+[1 | 6]
+[0 | 6]
+[6 | 6]
+Generate Instance 19----------------------
+SquareIds of Constraint: [8, 9, 10, 14, 15]
+SquareIds of Constraint: [0, 1, 5, 6]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [12, 13]
+The Board:
+  3   3   4   4 
+  5   3   3   4 
+  0   0   0   5 
+  1   1   0   0 
+The Dominoes:
+[3 | 5]
+[3 | 3]
+[4 | 4]
+[3 | 4]
+[0 | 1]
+[0 | 1]
+[0 | 0]
+[5 | 0]
+Generate Instance 20----------------------
+SquareIds of Constraint: [6, 10, 11, 14, 15]
+SquareIds of Constraint: [1, 2, 3, 7]
+SquareIds of Constraint: [5, 9, 13]
+SquareIds of Constraint: [0, 4]
+The Board:
+  6   2   2   2 
+  6   1   5   2 
+  0   1   5   5 
+  0   1   5   5 
+The Dominoes:
+[6 | 6]
+[2 | 1]
+[2 | 2]
+[5 | 2]
+[0 | 0]
+[1 | 5]
+[5 | 5]
+[1 | 5]
+Generate Instance 21----------------------
+SquareIds of Constraint: [4, 5, 6, 7, 8]
+SquareIds of Constraint: [0, 1, 2, 3]
+SquareIds of Constraint: [12, 13, 14]
+SquareIds of Constraint: [10, 11]
+The Board:
+  3   3   3   3 
+  5   5   5   5 
+  5   2   6   6 
+  4   4   4   2 
+The Dominoes:
+[3 | 5]
+[3 | 3]
+[3 | 5]
+[5 | 5]
+[5 | 4]
+[2 | 4]
+[6 | 4]
+[6 | 2]
+Generate Instance 22----------------------
+SquareIds of Constraint: [0, 4, 8, 9, 12]
+SquareIds of Constraint: [1, 2, 5, 6]
+SquareIds of Constraint: [3, 7, 11]
+SquareIds of Constraint: [14, 15]
+The Board:
+  0   2   2   3 
+  0   2   2   3 
+  0   0   4   3 
+  0   4   6   6 
+The Dominoes:
+[0 | 0]
+[2 | 2]
+[2 | 3]
+[2 | 4]
+[3 | 3]
+[0 | 0]
+[0 | 4]
+[6 | 6]
+Generate Instance 23----------------------
+SquareIds of Constraint: [3, 6, 7, 10, 11]
+SquareIds of Constraint: [9, 13, 14, 15]
+SquareIds of Constraint: [4, 8, 12]
+SquareIds of Constraint: [1, 5]
+The Board:
+  3   0   3   4 
+  5   0   4   4 
+  5   1   4   4 
+  5   1   1   1 
+The Dominoes:
+[3 | 0]
+[3 | 4]
+[5 | 5]
+[0 | 1]
+[4 | 4]
+[4 | 4]
+[5 | 1]
+[1 | 1]
+Generate Instance 24----------------------
+SquareIds of Constraint: [1, 5, 9, 10, 13]
+SquareIds of Constraint: [2, 3, 6, 7]
+SquareIds of Constraint: [4, 8, 12]
+SquareIds of Constraint: [14, 15]
+The Board:
+  2   0   6   6 
+  3   0   6   6 
+  3   0   0   2 
+  3   0   1   1 
+The Dominoes:
+[2 | 0]
+[6 | 6]
+[3 | 0]
+[6 | 6]
+[3 | 0]
+[0 | 2]
+[3 | 0]
+[1 | 1]
+Generate Instance 25----------------------
+SquareIds of Constraint: [0, 4, 5, 9, 10]
+SquareIds of Constraint: [6, 7, 11, 15]
+SquareIds of Constraint: [1, 2, 3]
+SquareIds of Constraint: [8, 12]
+The Board:
+  0   6   6   6 
+  0   0   1   1 
+  3   0   0   1 
+  3   2   2   1 
+The Dominoes:
+[0 | 0]
+[6 | 6]
+[6 | 1]
+[0 | 1]
+[3 | 3]
+[0 | 2]
+[0 | 1]
+[2 | 1]
+Generate Instance 26----------------------
+SquareIds of Constraint: [1, 2, 3, 5, 6]
+SquareIds of Constraint: [7, 10, 11, 14]
+SquareIds of Constraint: [4, 8, 9]
+SquareIds of Constraint: [12, 13]
+The Board:
+  2   6   6   6 
+  3   6   6   5 
+  3   3   5   5 
+  1   1   5   2 
+The Dominoes:
+[2 | 6]
+[6 | 6]
+[6 | 5]
+[3 | 3]
+[6 | 3]
+[5 | 5]
+[5 | 2]
+[1 | 1]
+Generate Instance 27----------------------
+SquareIds of Constraint: [4, 5, 8, 9, 12]
+SquareIds of Constraint: [1, 2, 6, 7]
+SquareIds of Constraint: [13, 14, 15]
+SquareIds of Constraint: [10, 11]
+The Board:
+  0   5   5   0 
+  4   4   5   5 
+  4   4   2   2 
+  4   6   6   6 
+The Dominoes:
+[0 | 5]
+[5 | 0]
+[4 | 4]
+[4 | 4]
+[5 | 2]
+[5 | 2]
+[4 | 6]
+[6 | 6]
+Generate Instance 28----------------------
+SquareIds of Constraint: [4, 5, 8, 12, 13]
+SquareIds of Constraint: [1, 2, 3, 7]
+SquareIds of Constraint: [11, 14, 15]
+SquareIds of Constraint: [6, 10]
+The Board:
+  0   3   3   3 
+  2   2   4   3 
+  2   0   4   6 
+  2   2   6   6 
+The Dominoes:
+[0 | 3]
+[3 | 3]
+[2 | 2]
+[4 | 3]
+[2 | 0]
+[4 | 6]
+[2 | 2]
+[6 | 6]
+Generate Instance 29----------------------
+SquareIds of Constraint: [2, 3, 6, 7, 10]
+SquareIds of Constraint: [11, 13, 14, 15]
+SquareIds of Constraint: [1, 5, 9]
+SquareIds of Constraint: [0, 4]
+The Board:
+  1   4   0   0 
+  1   4   0   0 
+  2   4   0   5 
+  2   5   5   5 
+The Dominoes:
+[1 | 4]
+[0 | 0]
+[0 | 0]
+[1 | 4]
+[2 | 2]
+[4 | 5]
+[0 | 5]
+[5 | 5]
+Generate Instance 30----------------------
+SquareIds of Constraint: [0, 1, 4, 8, 12]
+SquareIds of Constraint: [2, 5, 6, 7]
+SquareIds of Constraint: [10, 14, 15]
+SquareIds of Constraint: [9, 13]
+The Board:
+  4   4   6   1 
+  4   6   6   6 
+  4   0   3   1 
+  4   0   3   3 
+The Dominoes:
+[4 | 4]
+[6 | 1]
+[4 | 4]
+[6 | 0]
+[6 | 6]
+[3 | 1]
+[4 | 0]
+[3 | 3]
+Generate Instance 31----------------------
+SquareIds of Constraint: [0, 4, 5, 6, 10]
+SquareIds of Constraint: [3, 7, 11, 15]
+SquareIds of Constraint: [9, 13, 14]
+SquareIds of Constraint: [8, 12]
+The Board:
+  5   1   1   6 
+  5   5   5   6 
+  4   0   5   6 
+  4   0   0   6 
+The Dominoes:
+[5 | 5]
+[1 | 5]
+[1 | 5]
+[6 | 6]
+[4 | 0]
+[5 | 6]
+[4 | 0]
+[0 | 6]
+Generate Instance 32----------------------
+SquareIds of Constraint: [5, 6, 8, 9, 10]
+SquareIds of Constraint: [0, 1, 2, 3]
+SquareIds of Constraint: [12, 13, 14]
+SquareIds of Constraint: [7, 11]
+The Board:
+  2   2   2   2 
+  0   4   4   6 
+  4   4   4   6 
+  5   5   5   0 
+The Dominoes:
+[2 | 0]
+[2 | 4]
+[2 | 4]
+[2 | 6]
+[4 | 5]
+[4 | 5]
+[4 | 6]
+[5 | 0]
+Generate Instance 33----------------------
+SquareIds of Constraint: [1, 2, 3, 6, 7]
+SquareIds of Constraint: [11, 13, 14, 15]
+SquareIds of Constraint: [5, 8, 9]
+SquareIds of Constraint: [0, 4]
+The Board:
+  0   3   3   3 
+  0   2   3   3 
+  2   2   1   4 
+  1   4   4   4 
+The Dominoes:
+[0 | 0]
+[3 | 3]
+[3 | 3]
+[2 | 3]
+[2 | 1]
+[2 | 4]
+[1 | 4]
+[4 | 4]
+Generate Instance 34----------------------
+SquareIds of Constraint: [0, 1, 2, 3, 4]
+SquareIds of Constraint: [6, 10, 11, 15]
+SquareIds of Constraint: [8, 12, 13]
+SquareIds of Constraint: [5, 9]
+The Board:
+  0   0   0   0 
+  0   6   4   1 
+  5   6   4   4 
+  5   5   1   4 
+The Dominoes:
+[0 | 0]
+[0 | 0]
+[0 | 1]
+[6 | 4]
+[5 | 5]
+[6 | 5]
+[4 | 1]
+[4 | 4]
+Generate Instance 35----------------------
+SquareIds of Constraint: [8, 9, 12, 13, 14]
+SquareIds of Constraint: [4, 5, 6, 10]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [0, 1]
+The Board:
+  0   0   6   6 
+  4   4   4   6 
+  5   5   4   1 
+  5   5   5   1 
+The Dominoes:
+[0 | 0]
+[6 | 6]
+[4 | 4]
+[4 | 6]
+[5 | 5]
+[5 | 4]
+[1 | 1]
+[5 | 5]
+Generate Instance 36----------------------
+SquareIds of Constraint: [8, 9, 10, 12, 13]
+SquareIds of Constraint: [7, 11, 14, 15]
+SquareIds of Constraint: [0, 1, 4]
+SquareIds of Constraint: [5, 6]
+The Board:
+  3   3   1   1 
+  3   5   5   2 
+  6   6   6   2 
+  6   6   2   2 
+The Dominoes:
+[3 | 3]
+[1 | 1]
+[3 | 5]
+[5 | 2]
+[6 | 6]
+[6 | 6]
+[6 | 2]
+[2 | 2]
+Generate Instance 37----------------------
+SquareIds of Constraint: [6, 7, 10, 11, 15]
+SquareIds of Constraint: [9, 12, 13, 14]
+SquareIds of Constraint: [1, 4, 5]
+SquareIds of Constraint: [2, 3]
+The Board:
+  3   4   0   0 
+  4   4   6   6 
+  3   5   6   6 
+  5   5   5   6 
+The Dominoes:
+[3 | 4]
+[0 | 0]
+[4 | 3]
+[4 | 5]
+[6 | 6]
+[6 | 5]
+[6 | 6]
+[5 | 5]
+Generate Instance 38----------------------
+SquareIds of Constraint: [6, 10, 11, 14, 15]
+SquareIds of Constraint: [4, 8, 12, 13]
+SquareIds of Constraint: [1, 5, 9]
+SquareIds of Constraint: [2, 3]
+The Board:
+  6   5   1   1 
+  0   5   2   6 
+  0   5   2   2 
+  0   0   2   2 
+The Dominoes:
+[6 | 0]
+[5 | 5]
+[1 | 1]
+[2 | 6]
+[0 | 0]
+[5 | 0]
+[2 | 2]
+[2 | 2]
+Generate Instance 39----------------------
+SquareIds of Constraint: [0, 4, 8, 9, 12]
+SquareIds of Constraint: [5, 6, 7, 11]
+SquareIds of Constraint: [10, 14, 15]
+SquareIds of Constraint: [1, 2]
+The Board:
+  4   6   6   3 
+  4   5   5   5 
+  4   4   0   5 
+  4   3   0   0 
+The Dominoes:
+[4 | 4]
+[6 | 6]
+[3 | 5]
+[5 | 5]
+[4 | 4]
+[0 | 0]
+[5 | 0]
+[4 | 3]
+Generate Instance 40----------------------
+SquareIds of Constraint: [0, 1, 2, 3, 5]
+SquareIds of Constraint: [6, 7, 11, 15]
+SquareIds of Constraint: [10, 13, 14]
+SquareIds of Constraint: [8, 12]
+The Board:
+  1   1   1   1 
+  2   1   6   6 
+  5   2   0   6 
+  5   0   0   6 
+The Dominoes:
+[1 | 1]
+[1 | 1]
+[2 | 1]
+[6 | 0]
+[6 | 6]
+[5 | 2]
+[5 | 0]
+[0 | 6]
+Generate Instance 41----------------------
+SquareIds of Constraint: [0, 1, 4, 8, 9]
+SquareIds of Constraint: [5, 6, 7, 10]
+SquareIds of Constraint: [13, 14, 15]
+SquareIds of Constraint: [2, 3]
+The Board:
+  6   6   0   0 
+  6   4   4   4 
+  6   6   4   2 
+  2   3   3   3 
+The Dominoes:
+[6 | 6]
+[6 | 0]
+[0 | 4]
+[4 | 6]
+[4 | 4]
+[6 | 2]
+[2 | 3]
+[3 | 3]
+Generate Instance 42----------------------
+SquareIds of Constraint: [9, 10, 12, 13, 14]
+SquareIds of Constraint: [0, 4, 5, 6]
+SquareIds of Constraint: [7, 11, 15]
+SquareIds of Constraint: [1, 2]
+The Board:
+  1   6   6   3 
+  1   1   1   5 
+  3   0   0   5 
+  0   0   0   5 
+The Dominoes:
+[1 | 1]
+[6 | 1]
+[6 | 3]
+[1 | 5]
+[3 | 0]
+[0 | 0]
+[5 | 5]
+[0 | 0]
+Generate Instance 43----------------------
+SquareIds of Constraint: [8, 12, 13, 14, 15]
+SquareIds of Constraint: [0, 1, 4, 5]
+SquareIds of Constraint: [7, 10, 11]
+SquareIds of Constraint: [2, 3]
+The Board:
+  3   3   6   6 
+  3   3   4   2 
+  5   4   2   2 
+  5   5   5   5 
+The Dominoes:
+[3 | 3]
+[3 | 6]
+[6 | 2]
+[3 | 4]
+[5 | 5]
+[4 | 5]
+[2 | 2]
+[5 | 5]
+Generate Instance 44----------------------
+SquareIds of Constraint: [8, 9, 10, 13, 14]
+SquareIds of Constraint: [2, 4, 5, 6]
+SquareIds of Constraint: [3, 7, 11]
+SquareIds of Constraint: [0, 1]
+The Board:
+  4   4   2   6 
+  2   2   2   6 
+  5   5   5   6 
+  1   5   5   1 
+The Dominoes:
+[4 | 2]
+[4 | 2]
+[2 | 6]
+[2 | 6]
+[5 | 5]
+[5 | 6]
+[1 | 5]
+[5 | 1]
+Generate Instance 45----------------------
+SquareIds of Constraint: [10, 12, 13, 14, 15]
+SquareIds of Constraint: [4, 5, 6, 7]
+SquareIds of Constraint: [0, 1, 2]
+SquareIds of Constraint: [8, 9]
+The Board:
+  0   0   0   3 
+  5   5   5   5 
+  6   6   1   3 
+  1   1   1   1 
+The Dominoes:
+[0 | 0]
+[0 | 3]
+[5 | 5]
+[5 | 5]
+[6 | 6]
+[1 | 1]
+[3 | 1]
+[1 | 1]
+Generate Instance 46----------------------
+SquareIds of Constraint: [2, 6, 9, 10, 14]
+SquareIds of Constraint: [3, 7, 11, 15]
+SquareIds of Constraint: [4, 8, 12]
+SquareIds of Constraint: [0, 1]
+The Board:
+  0   0   2   4 
+  1   3   2   4 
+  1   2   2   4 
+  1   3   2   4 
+The Dominoes:
+[0 | 1]
+[0 | 3]
+[2 | 4]
+[2 | 4]
+[1 | 2]
+[2 | 2]
+[4 | 4]
+[1 | 3]
+Generate Instance 47----------------------
+SquareIds of Constraint: [3, 6, 7, 11, 15]
+SquareIds of Constraint: [10, 12, 13, 14]
+SquareIds of Constraint: [1, 4, 5]
+SquareIds of Constraint: [8, 9]
+The Board:
+  5   3   5   6 
+  3   3   6   6 
+  2   2   4   6 
+  4   4   4   6 
+The Dominoes:
+[5 | 3]
+[5 | 6]
+[3 | 3]
+[6 | 6]
+[2 | 2]
+[4 | 6]
+[4 | 4]
+[4 | 6]
+Generate Instance 48----------------------
+SquareIds of Constraint: [4, 8, 9, 12, 13]
+SquareIds of Constraint: [1, 2, 5, 6]
+SquareIds of Constraint: [10, 14, 15]
+SquareIds of Constraint: [7, 11]
+The Board:
+  1   4   4   1 
+  0   4   4   2 
+  0   0   5   2 
+  0   0   5   5 
+The Dominoes:
+[1 | 0]
+[4 | 4]
+[4 | 4]
+[1 | 2]
+[0 | 0]
+[5 | 5]
+[2 | 5]
+[0 | 0]
+Generate Instance 49----------------------
+SquareIds of Constraint: [8, 12, 13, 14, 15]
+SquareIds of Constraint: [2, 6, 9, 10]
+SquareIds of Constraint: [3, 7, 11]
+SquareIds of Constraint: [4, 5]
+The Board:
+  5   5   3   2 
+  0   0   3   2 
+  6   3   3   2 
+  6   6   6   6 
+The Dominoes:
+[5 | 5]
+[3 | 3]
+[2 | 2]
+[0 | 0]
+[6 | 3]
+[3 | 6]
+[2 | 6]
+[6 | 6]
+Generate Instance 50----------------------
+SquareIds of Constraint: [1, 5, 9, 12, 13]
+SquareIds of Constraint: [2, 3, 7, 11]
+SquareIds of Constraint: [10, 14, 15]
+SquareIds of Constraint: [4, 8]
+The Board:
+  3   2   1   1 
+  5   2   3   1 
+  5   2   4   1 
+  2   2   4   4 
+The Dominoes:
+[3 | 2]
+[1 | 1]
+[5 | 2]
+[3 | 1]
+[5 | 2]
+[4 | 1]
+[2 | 2]
+[4 | 4]
+Generate Instance 51----------------------
+SquareIds of Constraint: [5, 6, 7, 11, 15]
+SquareIds of Constraint: [9, 12, 13, 14]
+SquareIds of Constraint: [0, 1, 4]
+SquareIds of Constraint: [2, 3]
+The Board:
+  1   1   5   5 
+  1   0   0   0 
+  4   2   4   0 
+  2   2   2   0 
+The Dominoes:
+[1 | 1]
+[5 | 0]
+[5 | 0]
+[1 | 0]
+[4 | 2]
+[4 | 2]
+[0 | 0]
+[2 | 2]
+Generate Instance 52----------------------
+SquareIds of Constraint: [1, 5, 9, 13, 14]
+SquareIds of Constraint: [2, 3, 6, 10]
+SquareIds of Constraint: [0, 4, 8]
+SquareIds of Constraint: [7, 11]
+The Board:
+  3   6   4   4 
+  3   6   4   0 
+  3   6   4   0 
+  1   6   6   1 
+The Dominoes:
+[3 | 6]
+[4 | 4]
+[3 | 6]
+[4 | 0]
+[3 | 1]
+[6 | 4]
+[0 | 1]
+[6 | 6]
+Generate Instance 53----------------------
+SquareIds of Constraint: [1, 2, 4, 5, 9]
+SquareIds of Constraint: [8, 12, 13, 14]
+SquareIds of Constraint: [6, 7, 10]
+SquareIds of Constraint: [11, 15]
+The Board:
+  6   2   2   6 
+  2   2   1   1 
+  4   2   1   5 
+  4   4   4   5 
+The Dominoes:
+[6 | 2]
+[2 | 6]
+[2 | 2]
+[1 | 1]
+[4 | 2]
+[1 | 4]
+[5 | 5]
+[4 | 4]
+Generate Instance 54----------------------
+SquareIds of Constraint: [8, 9, 10, 13, 14]
+SquareIds of Constraint: [2, 5, 6, 7]
+SquareIds of Constraint: [0, 1, 4]
+SquareIds of Constraint: [11, 15]
+The Board:
+  2   2   3   4 
+  2   3   3   3 
+  1   1   1   6 
+  4   1   1   6 
+The Dominoes:
+[2 | 2]
+[2 | 3]
+[3 | 4]
+[3 | 3]
+[1 | 1]
+[1 | 1]
+[6 | 6]
+[4 | 1]
+Generate Instance 55----------------------
+SquareIds of Constraint: [3, 6, 7, 10, 11]
+SquareIds of Constraint: [0, 1, 4, 5]
+SquareIds of Constraint: [8, 12, 13]
+SquareIds of Constraint: [14, 15]
+The Board:
+  1   1   3   6 
+  1   1   6   6 
+  2   3   6   6 
+  2   2   0   0 
+The Dominoes:
+[1 | 1]
+[3 | 6]
+[6 | 6]
+[1 | 1]
+[2 | 3]
+[6 | 0]
+[6 | 0]
+[2 | 2]
+Generate Instance 56----------------------
+SquareIds of Constraint: [0, 1, 2, 4, 5]
+SquareIds of Constraint: [6, 7, 11, 15]
+SquareIds of Constraint: [8, 12, 13]
+SquareIds of Constraint: [9, 10]
+The Board:
+  4   4   4   0 
+  4   4   5   5 
+  2   1   1   5 
+  2   2   0   5 
+The Dominoes:
+[4 | 4]
+[4 | 4]
+[0 | 5]
+[4 | 1]
+[5 | 1]
+[2 | 2]
+[5 | 5]
+[2 | 0]
+Generate Instance 57----------------------
+SquareIds of Constraint: [0, 4, 5, 8, 9]
+SquareIds of Constraint: [12, 13, 14, 15]
+SquareIds of Constraint: [6, 7, 10]
+SquareIds of Constraint: [1, 2]
+The Board:
+  4   6   6   1 
+  4   4   3   3 
+  4   4   3   1 
+  5   5   5   5 
+The Dominoes:
+[4 | 6]
+[6 | 1]
+[4 | 4]
+[3 | 3]
+[4 | 4]
+[3 | 1]
+[5 | 5]
+[5 | 5]
+Generate Instance 58----------------------
+SquareIds of Constraint: [0, 1, 2, 3, 7]
+SquareIds of Constraint: [4, 5, 6, 8]
+SquareIds of Constraint: [9, 10, 13]
+SquareIds of Constraint: [14, 15]
+The Board:
+  1   1   1   1 
+  6   6   6   1 
+  6   2   2   5 
+  5   2   4   4 
+The Dominoes:
+[1 | 6]
+[1 | 6]
+[1 | 1]
+[6 | 1]
+[6 | 5]
+[2 | 2]
+[2 | 5]
+[4 | 4]
+Generate Instance 59----------------------
+SquareIds of Constraint: [3, 7, 10, 11, 15]
+SquareIds of Constraint: [4, 8, 9, 12]
+SquareIds of Constraint: [1, 2, 6]
+SquareIds of Constraint: [13, 14]
+The Board:
+  0   4   4   5 
+  3   0   4   5 
+  3   3   5   5 
+  3   6   6   5 
+The Dominoes:
+[0 | 4]
+[4 | 5]
+[3 | 0]
+[4 | 5]
+[3 | 3]
+[3 | 6]
+[5 | 5]
+[6 | 5]
+Generate Instance 60----------------------
+SquareIds of Constraint: [1, 2, 3, 6, 7]
+SquareIds of Constraint: [10, 11, 14, 15]
+SquareIds of Constraint: [8, 9, 12]
+SquareIds of Constraint: [0, 4]
+The Board:
+  6   1   1   1 
+  6   2   1   1 
+  4   4   5   5 
+  4   2   5   5 
+The Dominoes:
+[6 | 6]
+[1 | 2]
+[1 | 1]
+[1 | 1]
+[4 | 4]
+[5 | 5]
+[4 | 2]
+[5 | 5]
+Generate Instance 61----------------------
+SquareIds of Constraint: [6, 7, 11, 14, 15]
+SquareIds of Constraint: [4, 5, 8, 9]
+SquareIds of Constraint: [1, 2, 3]
+SquareIds of Constraint: [12, 13]
+The Board:
+  6   5   5   5 
+  1   1   4   4 
+  1   1   6   4 
+  3   3   4   4 
+The Dominoes:
+[6 | 1]
+[5 | 5]
+[5 | 4]
+[1 | 4]
+[1 | 3]
+[1 | 3]
+[6 | 4]
+[4 | 4]
+Generate Instance 62----------------------
+SquareIds of Constraint: [4, 5, 9, 10, 13]
+SquareIds of Constraint: [7, 11, 14, 15]
+SquareIds of Constraint: [2, 3, 6]
+SquareIds of Constraint: [8, 12]
+The Board:
+  1   1   3   3 
+  6   6   3   2 
+  0   6   6   2 
+  0   6   2   2 
+The Dominoes:
+[1 | 6]
+[1 | 6]
+[3 | 3]
+[3 | 6]
+[2 | 2]
+[0 | 0]
+[6 | 6]
+[2 | 2]
+Generate Instance 63----------------------
+SquareIds of Constraint: [4, 5, 8, 12, 13]
+SquareIds of Constraint: [7, 11, 14, 15]
+SquareIds of Constraint: [6, 9, 10]
+SquareIds of Constraint: [0, 1]
+The Board:
+  3   3   1   1 
+  2   2   4   0 
+  2   4   4   0 
+  2   2   0   0 
+The Dominoes:
+[3 | 2]
+[3 | 2]
+[1 | 1]
+[4 | 0]
+[2 | 2]
+[4 | 2]
+[4 | 0]
+[0 | 0]
+Generate Instance 64----------------------
+SquareIds of Constraint: [0, 4, 5, 8, 9]
+SquareIds of Constraint: [2, 3, 6, 7]
+SquareIds of Constraint: [10, 11, 14]
+SquareIds of Constraint: [12, 13]
+The Board:
+  3   6   2   2 
+  3   3   2   2 
+  3   3   0   0 
+  1   1   0   6 
+The Dominoes:
+[3 | 6]
+[2 | 2]
+[2 | 2]
+[3 | 3]
+[3 | 1]
+[3 | 0]
+[0 | 6]
+[1 | 0]
+Generate Instance 65----------------------
+SquareIds of Constraint: [4, 5, 8, 9, 12]
+SquareIds of Constraint: [7, 11, 14, 15]
+SquareIds of Constraint: [1, 2, 3]
+SquareIds of Constraint: [6, 10]
+The Board:
+  3   1   1   1 
+  6   6   0   2 
+  6   6   0   2 
+  6   3   2   2 
+The Dominoes:
+[3 | 6]
+[1 | 6]
+[1 | 0]
+[1 | 2]
+[6 | 6]
+[0 | 2]
+[2 | 2]
+[6 | 3]
+Generate Instance 66----------------------
+SquareIds of Constraint: [2, 5, 6, 10, 11]
+SquareIds of Constraint: [9, 12, 13, 14]
+SquareIds of Constraint: [0, 4, 8]
+SquareIds of Constraint: [3, 7]
+The Board:
+  4   1   3   2 
+  4   3   3   2 
+  4   0   3   3 
+  0   0   0   1 
+The Dominoes:
+[4 | 4]
+[1 | 3]
+[3 | 2]
+[3 | 2]
+[4 | 0]
+[3 | 0]
+[3 | 1]
+[0 | 0]
+Generate Instance 67----------------------
+SquareIds of Constraint: [0, 1, 4, 5, 8]
+SquareIds of Constraint: [6, 9, 10, 13]
+SquareIds of Constraint: [3, 7, 11]
+SquareIds of Constraint: [14, 15]
+The Board:
+  1   1   0   5 
+  1   1   6   5 
+  1   6   6   5 
+  0   6   3   3 
+The Dominoes:
+[1 | 1]
+[0 | 5]
+[1 | 1]
+[6 | 6]
+[5 | 5]
+[1 | 0]
+[6 | 6]
+[3 | 3]
+Generate Instance 68----------------------
+SquareIds of Constraint: [0, 1, 2, 3, 4]
+SquareIds of Constraint: [8, 9, 10, 13]
+SquareIds of Constraint: [5, 6, 7]
+SquareIds of Constraint: [11, 15]
+The Board:
+  0   0   0   0 
+  0   3   3   3 
+  1   1   1   6 
+  5   1   5   6 
+The Dominoes:
+[0 | 0]
+[0 | 0]
+[0 | 3]
+[3 | 3]
+[1 | 5]
+[1 | 1]
+[1 | 6]
+[5 | 6]
+Generate Instance 69----------------------
+SquareIds of Constraint: [1, 2, 3, 5, 7]
+SquareIds of Constraint: [0, 4, 8, 9]
+SquareIds of Constraint: [12, 13, 14]
+SquareIds of Constraint: [6, 10]
+The Board:
+  6   0   0   0 
+  6   0   2   0 
+  6   6   2   5 
+  3   3   3   5 
+The Dominoes:
+[6 | 6]
+[0 | 0]
+[0 | 0]
+[0 | 2]
+[6 | 3]
+[6 | 2]
+[5 | 5]
+[3 | 3]
+Generate Instance 70----------------------
+SquareIds of Constraint: [10, 11, 13, 14, 15]
+SquareIds of Constraint: [2, 3, 6, 7]
+SquareIds of Constraint: [8, 9, 12]
+SquareIds of Constraint: [0, 1]
+The Board:
+  0   0   1   1 
+  3   3   1   1 
+  6   6   4   4 
+  6   4   4   4 
+The Dominoes:
+[0 | 3]
+[0 | 3]
+[1 | 1]
+[1 | 1]
+[6 | 6]
+[6 | 4]
+[4 | 4]
+[4 | 4]
+Generate Instance 71----------------------
+SquareIds of Constraint: [0, 1, 5, 6, 10]
+SquareIds of Constraint: [7, 11, 14, 15]
+SquareIds of Constraint: [9, 12, 13]
+SquareIds of Constraint: [2, 3]
+The Board:
+  0   0   3   3 
+  6   0   0   2 
+  6   5   0   2 
+  5   5   2   2 
+The Dominoes:
+[0 | 6]
+[0 | 3]
+[3 | 2]
+[0 | 0]
+[6 | 5]
+[5 | 0]
+[2 | 2]
+[5 | 2]
+Generate Instance 72----------------------
+SquareIds of Constraint: [1, 2, 3, 6, 7]
+SquareIds of Constraint: [0, 4, 5, 8]
+SquareIds of Constraint: [13, 14, 15]
+SquareIds of Constraint: [9, 10]
+The Board:
+  6   2   2   2 
+  6   6   2   2 
+  6   1   1   3 
+  3   0   0   0 
+The Dominoes:
+[6 | 2]
+[2 | 2]
+[2 | 2]
+[6 | 6]
+[6 | 3]
+[1 | 0]
+[1 | 0]
+[3 | 0]
+Generate Instance 73----------------------
+SquareIds of Constraint: [0, 1, 2, 4, 8]
+SquareIds of Constraint: [3, 6, 7, 10]
+SquareIds of Constraint: [5, 9, 13]
+SquareIds of Constraint: [11, 15]
+The Board:
+  0   0   0   5 
+  0   2   5   5 
+  0   2   5   3 
+  4   2   4   3 
+The Dominoes:
+[0 | 0]
+[0 | 5]
+[5 | 5]
+[0 | 2]
+[0 | 4]
+[2 | 5]
+[3 | 3]
+[2 | 4]
+Generate Instance 74----------------------
+SquareIds of Constraint: [9, 10, 11, 12, 13]
+SquareIds of Constraint: [1, 4, 5, 8]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [14, 15]
+The Board:
+  3   5   2   2 
+  5   5   3   2 
+  5   0   0   0 
+  0   0   4   4 
+The Dominoes:
+[3 | 5]
+[5 | 5]
+[2 | 2]
+[3 | 2]
+[5 | 0]
+[0 | 4]
+[0 | 4]
+[0 | 0]
+Generate Instance 75----------------------
+SquareIds of Constraint: [5, 6, 10, 11, 15]
+SquareIds of Constraint: [0, 4, 8, 9]
+SquareIds of Constraint: [1, 2, 3]
+SquareIds of Constraint: [12, 13]
+The Board:
+  5   6   6   6 
+  5   1   1   0 
+  5   5   1   1 
+  2   2   0   1 
+The Dominoes:
+[5 | 6]
+[6 | 6]
+[5 | 1]
+[1 | 0]
+[5 | 5]
+[1 | 0]
+[1 | 1]
+[2 | 2]
+Generate Instance 76----------------------
+SquareIds of Constraint: [0, 1, 2, 4, 6]
+SquareIds of Constraint: [8, 9, 12, 13]
+SquareIds of Constraint: [10, 11, 14]
+SquareIds of Constraint: [3, 7]
+The Board:
+  6   6   6   1 
+  6   4   6   1 
+  3   3   5   5 
+  3   3   5   4 
+The Dominoes:
+[6 | 6]
+[6 | 1]
+[6 | 4]
+[6 | 1]
+[3 | 3]
+[3 | 3]
+[5 | 5]
+[5 | 4]
+Generate Instance 77----------------------
+SquareIds of Constraint: [5, 7, 9, 10, 11]
+SquareIds of Constraint: [0, 4, 8, 12]
+SquareIds of Constraint: [1, 2, 6]
+SquareIds of Constraint: [14, 15]
+The Board:
+  4   0   0   6 
+  4   5   0   5 
+  4   5   5   5 
+  4   6   2   2 
+The Dominoes:
+[4 | 0]
+[0 | 6]
+[4 | 5]
+[0 | 5]
+[5 | 5]
+[4 | 4]
+[5 | 6]
+[2 | 2]
+Generate Instance 78----------------------
+SquareIds of Constraint: [2, 5, 6, 10, 11]
+SquareIds of Constraint: [0, 1, 4, 8]
+SquareIds of Constraint: [13, 14, 15]
+SquareIds of Constraint: [3, 7]
+The Board:
+  2   2   4   5 
+  2   4   4   5 
+  2   3   4   4 
+  3   0   0   0 
+The Dominoes:
+[2 | 2]
+[4 | 5]
+[2 | 4]
+[4 | 5]
+[2 | 3]
+[3 | 0]
+[4 | 4]
+[0 | 0]
+Generate Instance 79----------------------
+SquareIds of Constraint: [10, 11, 13, 14, 15]
+SquareIds of Constraint: [4, 5, 8, 9]
+SquareIds of Constraint: [0, 1, 2]
+SquareIds of Constraint: [6, 7]
+The Board:
+  1   1   1   6 
+  5   5   4   4 
+  5   5   0   0 
+  6   0   0   0 
+The Dominoes:
+[1 | 1]
+[1 | 4]
+[6 | 4]
+[5 | 5]
+[5 | 5]
+[0 | 0]
+[0 | 0]
+[6 | 0]
+Generate Instance 80----------------------
+SquareIds of Constraint: [3, 7, 10, 11, 15]
+SquareIds of Constraint: [0, 1, 4, 5]
+SquareIds of Constraint: [9, 13, 14]
+SquareIds of Constraint: [8, 12]
+The Board:
+  2   2   6   4 
+  2   2   6   4 
+  3   5   4   4 
+  3   5   5   4 
+The Dominoes:
+[2 | 2]
+[6 | 6]
+[4 | 4]
+[2 | 3]
+[2 | 5]
+[4 | 5]
+[4 | 4]
+[3 | 5]
+Generate Instance 81----------------------
+SquareIds of Constraint: [2, 3, 6, 7, 11]
+SquareIds of Constraint: [9, 10, 13, 14]
+SquareIds of Constraint: [4, 8, 12]
+SquareIds of Constraint: [1, 5]
+The Board:
+  5   1   2   2 
+  3   1   2   2 
+  3   4   4   2 
+  3   4   4   5 
+The Dominoes:
+[5 | 3]
+[1 | 1]
+[2 | 2]
+[2 | 2]
+[3 | 3]
+[4 | 4]
+[4 | 4]
+[2 | 5]
+Generate Instance 82----------------------
+SquareIds of Constraint: [1, 2, 3, 5, 7]
+SquareIds of Constraint: [6, 10, 11, 15]
+SquareIds of Constraint: [9, 13, 14]
+SquareIds of Constraint: [8, 12]
+The Board:
+  2   4   4   4 
+  2   4   6   4 
+  1   3   6   6 
+  1   3   3   6 
+The Dominoes:
+[2 | 4]
+[4 | 4]
+[2 | 1]
+[4 | 3]
+[6 | 6]
+[4 | 6]
+[1 | 3]
+[3 | 6]
+Generate Instance 83----------------------
+SquareIds of Constraint: [2, 3, 6, 7, 10]
+SquareIds of Constraint: [11, 13, 14, 15]
+SquareIds of Constraint: [0, 1, 4]
+SquareIds of Constraint: [5, 9]
+The Board:
+  5   5   4   4 
+  5   0   4   4 
+  2   0   4   1 
+  2   1   1   1 
+The Dominoes:
+[5 | 5]
+[5 | 0]
+[4 | 4]
+[4 | 4]
+[2 | 0]
+[4 | 1]
+[1 | 1]
+[2 | 1]
+Generate Instance 84----------------------
+SquareIds of Constraint: [1, 2, 3, 6, 7]
+SquareIds of Constraint: [5, 8, 9, 10]
+SquareIds of Constraint: [11, 14, 15]
+SquareIds of Constraint: [0, 4]
+The Board:
+  4   2   2   2 
+  4   0   2   2 
+  0   0   0   6 
+  5   5   6   6 
+The Dominoes:
+[4 | 2]
+[2 | 2]
+[4 | 0]
+[2 | 2]
+[0 | 5]
+[0 | 5]
+[0 | 6]
+[6 | 6]
+Generate Instance 85----------------------
+SquareIds of Constraint: [10, 12, 13, 14, 15]
+SquareIds of Constraint: [1, 2, 3, 5]
+SquareIds of Constraint: [0, 4, 8]
+SquareIds of Constraint: [7, 11]
+The Board:
+  4   6   6   6 
+  4   6   0   1 
+  4   0   3   1 
+  3   3   3   3 
+The Dominoes:
+[4 | 4]
+[6 | 6]
+[6 | 6]
+[0 | 1]
+[4 | 0]
+[3 | 3]
+[1 | 3]
+[3 | 3]
+Generate Instance 86----------------------
+SquareIds of Constraint: [1, 4, 5, 9, 13]
+SquareIds of Constraint: [6, 10, 11, 14]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [8, 12]
+The Board:
+  5   6   2   2 
+  6   6   1   2 
+  4   6   1   1 
+  4   6   1   5 
+The Dominoes:
+[5 | 6]
+[6 | 6]
+[2 | 1]
+[2 | 2]
+[4 | 6]
+[1 | 1]
+[1 | 5]
+[4 | 6]
+Generate Instance 87----------------------
+SquareIds of Constraint: [9, 10, 11, 13, 14]
+SquareIds of Constraint: [0, 1, 5, 6]
+SquareIds of Constraint: [4, 8, 12]
+SquareIds of Constraint: [2, 3]
+The Board:
+  6   6   4   4 
+  5   6   6   1 
+  5   2   2   2 
+  5   2   2   1 
+The Dominoes:
+[6 | 5]
+[6 | 4]
+[4 | 1]
+[6 | 2]
+[6 | 2]
+[5 | 5]
+[2 | 1]
+[2 | 2]
+Generate Instance 88----------------------
+SquareIds of Constraint: [1, 4, 5, 9, 10]
+SquareIds of Constraint: [7, 11, 14, 15]
+SquareIds of Constraint: [2, 3, 6]
+SquareIds of Constraint: [12, 13]
+The Board:
+  0   6   2   2 
+  6   6   2   4 
+  0   6   6   4 
+  1   1   4   4 
+The Dominoes:
+[0 | 6]
+[6 | 2]
+[2 | 4]
+[6 | 2]
+[0 | 6]
+[6 | 4]
+[4 | 4]
+[1 | 1]
+Generate Instance 89----------------------
+SquareIds of Constraint: [7, 10, 11, 14, 15]
+SquareIds of Constraint: [4, 8, 9, 12]
+SquareIds of Constraint: [2, 5, 6]
+SquareIds of Constraint: [0, 1]
+The Board:
+  0   0   2   5 
+  1   2   2   3 
+  1   1   3   3 
+  1   5   3   3 
+The Dominoes:
+[0 | 0]
+[2 | 5]
+[1 | 2]
+[2 | 3]
+[3 | 3]
+[1 | 1]
+[1 | 5]
+[3 | 3]
+Generate Instance 90----------------------
+SquareIds of Constraint: [9, 11, 13, 14, 15]
+SquareIds of Constraint: [0, 1, 2, 6]
+SquareIds of Constraint: [4, 5, 8]
+SquareIds of Constraint: [3, 7]
+The Board:
+  5   5   5   4 
+  2   2   5   4 
+  2   6   1   6 
+  1   6   6   6 
+The Dominoes:
+[5 | 2]
+[5 | 2]
+[5 | 4]
+[5 | 4]
+[2 | 6]
+[1 | 6]
+[6 | 6]
+[1 | 6]
+Generate Instance 91----------------------
+SquareIds of Constraint: [3, 6, 7, 10, 11]
+SquareIds of Constraint: [0, 1, 2, 5]
+SquareIds of Constraint: [4, 8, 9]
+SquareIds of Constraint: [14, 15]
+The Board:
+  3   3   3   2 
+  5   3   2   2 
+  5   5   2   2 
+  4   4   1   1 
+The Dominoes:
+[3 | 5]
+[3 | 3]
+[2 | 2]
+[3 | 2]
+[5 | 4]
+[5 | 4]
+[2 | 1]
+[2 | 1]
+Generate Instance 92----------------------
+SquareIds of Constraint: [4, 8, 9, 10, 12]
+SquareIds of Constraint: [11, 13, 14, 15]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [5, 6]
+The Board:
+  2   2   6   6 
+  4   1   1   6 
+  4   4   4   3 
+  4   3   3   3 
+The Dominoes:
+[2 | 4]
+[2 | 1]
+[6 | 1]
+[6 | 6]
+[4 | 4]
+[4 | 3]
+[4 | 3]
+[3 | 3]
+Generate Instance 93----------------------
+SquareIds of Constraint: [1, 2, 6, 10, 14]
+SquareIds of Constraint: [3, 7, 11, 15]
+SquareIds of Constraint: [0, 4, 5]
+SquareIds of Constraint: [9, 13]
+The Board:
+  3   6   6   4 
+  3   3   6   4 
+  5   0   6   4 
+  5   0   6   4 
+The Dominoes:
+[3 | 6]
+[6 | 4]
+[3 | 3]
+[6 | 6]
+[4 | 4]
+[5 | 5]
+[0 | 0]
+[6 | 4]
+Generate Instance 94----------------------
+SquareIds of Constraint: [9, 10, 11, 14, 15]
+SquareIds of Constraint: [0, 1, 4, 8]
+SquareIds of Constraint: [2, 3, 7]
+SquareIds of Constraint: [5, 6]
+The Board:
+  6   6   3   3 
+  6   5   5   3 
+  6   1   1   1 
+  0   0   1   1 
+The Dominoes:
+[6 | 6]
+[6 | 5]
+[3 | 3]
+[5 | 3]
+[6 | 0]
+[1 | 0]
+[1 | 1]
+[1 | 1]
+Generate Instance 95----------------------
+SquareIds of Constraint: [2, 6, 7, 10, 11]
+SquareIds of Constraint: [4, 8, 9, 13]
+SquareIds of Constraint: [0, 1, 5]
+SquareIds of Constraint: [14, 15]
+The Board:
+  5   5   3   2 
+  1   5   3   3 
+  1   1   3   3 
+  2   1   4   4 
+The Dominoes:
+[5 | 1]
+[5 | 5]
+[3 | 3]
+[2 | 3]
+[1 | 2]
+[1 | 1]
+[3 | 4]
+[3 | 4]
+Generate Instance 96----------------------
+SquareIds of Constraint: [1, 2, 3, 6, 7]
+SquareIds of Constraint: [0, 4, 5, 8]
+SquareIds of Constraint: [9, 10, 14]
+SquareIds of Constraint: [12, 13]
+The Board:
+  2   1   1   1 
+  2   2   1   1 
+  2   4   4   0 
+  6   6   4   0 
+The Dominoes:
+[2 | 1]
+[1 | 1]
+[2 | 2]
+[1 | 1]
+[2 | 6]
+[4 | 4]
+[0 | 0]
+[6 | 4]
+Generate Instance 97----------------------
+SquareIds of Constraint: [6, 7, 9, 10, 11]
+SquareIds of Constraint: [1, 2, 3, 5]
+SquareIds of Constraint: [13, 14, 15]
+SquareIds of Constraint: [0, 4]
+The Board:
+  5   4   4   4 
+  5   4   3   3 
+  6   3   3   3 
+  6   1   1   1 
+The Dominoes:
+[5 | 4]
+[4 | 4]
+[5 | 4]
+[3 | 3]
+[6 | 6]
+[3 | 1]
+[3 | 3]
+[1 | 1]
+Generate Instance 98----------------------
+SquareIds of Constraint: [3, 5, 6, 7, 11]
+SquareIds of Constraint: [10, 13, 14, 15]
+SquareIds of Constraint: [0, 1, 2]
+SquareIds of Constraint: [8, 12]
+The Board:
+  0   0   0   4 
+  6   4   4   4 
+  2   6   3   4 
+  2   3   3   3 
+The Dominoes:
+[0 | 6]
+[0 | 4]
+[0 | 4]
+[4 | 4]
+[2 | 6]
+[3 | 3]
+[4 | 3]
+[2 | 3]
+Generate Instance 99----------------------
+SquareIds of Constraint: [2, 5, 6, 8, 9]
+SquareIds of Constraint: [3, 7, 11, 15]
+SquareIds of Constraint: [0, 1, 4]
+SquareIds of Constraint: [10, 14]
+The Board:
+  0   0   1   3 
+  0   1   1   3 
+  1   1   5   3 
+  2   2   5   3 
+The Dominoes:
+[0 | 0]
+[1 | 1]
+[3 | 3]
+[0 | 1]
+[1 | 1]
+[5 | 3]
+[2 | 2]
+[5 | 3]
+Generate Instance 100----------------------
+SquareIds of Constraint: [1, 4, 5, 8, 9]
+SquareIds of Constraint: [11, 13, 14, 15]
+SquareIds of Constraint: [2, 6, 10]
+SquareIds of Constraint: [3, 7]
+The Board:
+  3   0   4   1 
+  0   0   4   1 
+  0   0   4   2 
+  3   2   2   2 
+The Dominoes:
+[3 | 0]
+[0 | 0]
+[4 | 4]
+[1 | 1]
+[0 | 3]
+[0 | 4]
+[2 | 2]
+[2 | 2]
+Running 1...
+	 Solution found in 12.
+	 Solution found in 10.
+	 Solution found in 11.
+Running 2...
+	 Solution found in 4.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 3...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 4...
+	 Solution found in 10.
+	 Solution found in 10.
+	 Solution found in 5.
+Running 5...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 6...
+	 Solution found in 6.
+	 Solution found in 7.
+	 Solution found in 8.
+Running 7...
+	 Solution found in 2.
+	 Solution found in 4.
+	 Solution found in 2.
+Running 8...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 6.
+Running 9...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 10...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 11...
+	 Solution found in 9.
+	 Solution found in 9.
+	 Solution found in 9.
+Running 12...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 13...
+	 Solution found in 5.
+	 Solution found in 6.
+	 Solution found in 6.
+Running 14...
+	 Solution found in 5.
+	 Solution found in 5.
+	 Solution found in 5.
+Running 15...
+	 Solution found in 8.
+	 Solution found in 9.
+	 Solution found in 11.
+Running 16...
+	 Solution found in 12.
+	 Solution found in 11.
+	 Solution found in 11.
+Running 17...
+	 Solution found in 10.
+	 Solution found in 11.
+	 Solution found in 10.
+Running 18...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 19...
+	 Solution found in 21.
+	 Solution found in 22.
+	 Solution found in 23.
+Running 20...
+	 Solution found in 8.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 21...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 22...
+	 Solution found in 6.
+	 Solution found in 7.
+	 Solution found in 7.
+Running 23...
+	 Solution found in 8.
+	 Solution found in 8.
+	 Solution found in 9.
+Running 24...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 5.
+Running 25...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 5.
+Running 26...
+	 Solution found in 8.
+	 Solution found in 8.
+	 Solution found in 8.
+Running 27...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 28...
+	 Solution found in 15.
+	 Solution found in 16.
+	 Solution found in 17.
+Running 29...
+	 Solution found in 7.
+	 Solution found in 7.
+	 Solution found in 8.
+Running 30...
+	 Solution found in 13.
+	 Solution found in 14.
+	 Solution found in 14.
+Running 31...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 32...
+	 Solution found in 9.
+	 Solution found in 9.
+	 Solution found in 9.
+Running 33...
+	 Solution found in 11.
+	 Solution found in 12.
+	 Solution found in 13.
+Running 34...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 7.
+Running 35...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 36...
+	 Solution found in 9.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 37...
+	 Solution found in 4.
+	 Solution found in 5.
+	 Solution found in 5.
+Running 38...
+	 Solution found in 11.
+	 Solution found in 12.
+	 Solution found in 13.
+Running 39...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 7.
+Running 40...
+	 Solution found in 6.
+	 Solution found in 7.
+	 Solution found in 7.
+Running 41...
+	 Solution found in 5.
+	 Solution found in 5.
+	 Solution found in 5.
+Running 42...
+	 Solution found in 5.
+	 Solution found in 5.
+	 Solution found in 6.
+Running 43...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 44...
+	 Solution found in 5.
+	 Solution found in 5.
+	 Solution found in 5.
+Running 45...
+	 Solution found in 13.
+	 Solution found in 13.
+	 Solution found in 14.
+Running 46...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 47...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 6.
+Running 48...
+	 Solution found in 9.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 49...
+	 Solution found in 19.
+	 Solution found in 20.
+	 Solution found in 21.
+Running 50...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 7.
+Running 51...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 52...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 53...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 54...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 55...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 11.
+Running 56...
+	 Solution found in 6.
+	 Solution found in 7.
+	 Solution found in 7.
+Running 57...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 58...
+	 Solution found in 8.
+	 Solution found in 8.
+	 Solution found in 8.
+Running 59...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 60...
+	 Solution found in 13.
+	 Solution found in 14.
+	 Solution found in 15.
+Running 61...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 62...
+	 Solution found in 3.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 63...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 64...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 65...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 66...
+	 Solution found in 4.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 67...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 68...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 6.
+Running 69...
+	 Solution found in 21.
+	 Solution found in 21.
+	 Solution found in 25.
+Running 70...
+	 Solution found in 6.
+	 Solution found in 6.
+	 Solution found in 7.
+Running 71...
+	 Solution found in 9.
+	 Solution found in 9.
+	 Solution found in 10.
+Running 72...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 73...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 74...
+	 Solution found in 4.
+	 Solution found in 5.
+	 Solution found in 5.
+Running 75...
+	 Solution found in 7.
+	 Solution found in 7.
+	 Solution found in 7.
+Running 76...
+	 Solution found in 10.
+	 Solution found in 10.
+	 Solution found in 10.
+Running 77...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 78...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 79...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 80...
+	 Solution found in 10.
+	 Solution found in 10.
+	 Solution found in 11.
+Running 81...
+	 Solution found in 17.
+	 Solution found in 17.
+	 Solution found in 25.
+Running 82...
+	 Solution found in 8.
+	 Solution found in 8.
+	 Solution found in 8.
+Running 83...
+	 Solution found in 2.
+	 Solution found in 5.
+	 Solution found in 3.
+Running 84...
+	 Solution found in 6.
+	 Solution found in 7.
+	 Solution found in 7.
+Running 85...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 86...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 87...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 88...
+	 Solution found in 8.
+	 Solution found in 7.
+	 Solution found in 7.
+Running 89...
+	 Solution found in 2.
+	 Solution found in 2.
+	 Solution found in 2.
+Running 90...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 91...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 92...
+	 Solution found in 8.
+	 Solution found in 8.
+	 Solution found in 9.
+Running 93...
+	 Solution found in 15.
+	 Solution found in 18.
+	 Solution found in 24.
+Running 94...
+	 Solution found in 1.
+	 Solution found in 1.
+	 Solution found in 1.
+Running 95...
+	 Solution found in 4.
+	 Solution found in 4.
+	 Solution found in 4.
+Running 96...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 4.
+Running 97...
+	 Solution found in 11.
+	 Solution found in 11.
+	 Solution found in 13.
+Running 98...
+	 Solution found in 3.
+	 Solution found in 3.
+	 Solution found in 3.
+Running 99...
+	 Solution found in 10.
+	 Solution found in 11.
+	 Solution found in 11.
+Running 100...
+	 Solution found in 7.
+	 Solution found in 7.
+	 Solution found in 7.
